@@ -1,0 +1,14 @@
+Disruption again shows need to fix rail power, say experts
+
+
+27 Apr 2016
+
+An expert panel, assembled to check the rail network's power system, called for urgent changes just days prior to Monday's major breakdown.
+
+Monday's four-line rail breakdown brings into focus once again weaknesses in the network's power system - weaknesses flagged just days before the latest incident by an expert panel, which called for urgent steps to be taken, reported The Straits Times. 
+
+The breakdown - which affected as many as 100,000 people whose journeys were disrupted or delayed - was caused by a power trip at the Buona Vista power intake station. The facility draws 66kV of electricity from the power grid and steps it down to 22kV before distributing it to substations in the rail network.
+
+Government Parliamentary Committee for Transport Chairman Sitoh Yih Pin said recommendations made by a panel of 13 power experts 'should be looked into urgently'. The panel was assembled four months ago to check the rail network's power system following a spate of electrical glitches. 
+
+One of the panel's recommendations was to enable automatic switchover to (an) alternative 66kV power supply intake, in the event of a loss of primary 66kV intake. Associate Professor Tseng King Jet of Nanyang Technological University's School of Electrical and Electronic Engineering said, "Today, this switchover is done manually. You must call for permission, then someone must go down and do it. This takes time, at least half an hour. This is for safety." But Dr. Tseng - who was part of the 13-member panel - said an automatic switchover can be done without compromising safety.

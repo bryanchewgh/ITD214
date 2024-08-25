@@ -1,0 +1,61 @@
+Number of major MRT breakdowns doubles even as overall rail reliability remains high
+
+UPDATED MAR 22, 2023, 05:38 AM
+
+SINGAPORE – Serious MRT disruptions, each lasting over 30 minutes, more than doubled in 2022 from 2021 even as the frequency of total delays dipped.
+
+According to rail reliability statistics just released by the Land Transport Authority (LTA), the mean kilometres before failure (MKBF) – an engineering measure of reliability – rose from 1.994 million train-km in 2021 to 2.09 million train-km in 2022.
+
+That means there was one disruption of more than five minutes for every 2.09 million km clocked by Singapore’s MRT trains during the year, making the system one of the more dependable in the world.
+
+The best-performing MRT line was the newish Downtown Line, operated by SBS Transit, while the worst-performing one was the North-South Line, operated by SMRT. But even the latter clocked more than 1.6 million train-km before a failure.
+
+The newest Thomson-East Coast Line (TEL) operated by SMRT – which had suffered several delays since it opened three years ago – was not tallied.
+
+Separately, there were seven major breakdowns (defined as those lasting more than half an hour) in 2022 – more than double the three in 2021, and is the second-highest figure in the past five years.
+
+This contrasted against the number of major LRT glitches, which halved to just two in 2022.
+
+
+Yes, I would also like to receive SPH Media Group's SPH Media Limited, its related corporations and affiliates as well as their agents and authorised service providers. marketing and promotions.
+Singapore University of Social Sciences Associate Professor Walter Theseira, an economist, said it was difficult to gauge reliability from year-on-year statistical changes.
+
+“We do know the system is more than 10 times as reliable as it was in the mid-2010s,” he said. “Whether these gains are being reversed is difficult to tell from just one year of performance, just as it took several years for improvements in rail reliability to become apparent.” 
+
+While admitting that a recent spate of major delays across several MRT lines “are of concern for commuters”, he said the glitches were “distributed across the lines and hence do not suggest yet that there are systemic reliability issues... which were the problem plaguing our MRT in the past”.
+
+Prof Theseira added that it was “common for reliability to change over time, since it is a function of equipment age, maintenance, utilisation, operating tempo”.
+
+“What is important is that since reliability is a choice, expectations are clearly communicated to operators, and operators have the resources to meet those expectations.”
+
+
+Asked why the TEL was not tallied in 2022 figures, LTA said MKBF statistics may not accurately represent the reliability of a new line when it first opens, especially in comparison with existing lines.
+
+It cited how the first two TEL stages had lower operating mileage as ridership increased only after the opening of later stages linked the rail line with others.
+
+“In addition, the operation of new rail lines like the TEL will need time to stabilise as we resolve issues that may surface during the early phases of full-scale operation of a new rail line... As such, MKBF statistics are reported only after most of TEL has come into stable operation,” said LTA.
+
+MORE ON THIS TOPIC
+Commuters a little happier with public transport, but perceptions on reliability slip: Survey
+Bus, train usage continues to recover in S’pore; 2022 ridership at 83% of pre-pandemic peak
+Observers said the number of disruptions in the first quarter of this year has risen. There were five breakdowns on the TEL for the year up to early March, three on the North-South Line and one on the East-West Line during that period.
+
+In a parliamentary reply to Mr Melvin Yong (Radin Mas) on Monday, Transport Minister S. Iswaran said there were five faults on the TEL since Stage 3 of the line opened four months ago. Two were owing to software issues, which have since been resolved. Three were caused by faulty components, which have since been replaced.
+
+“Prior to opening a new stage of a line, LTA and the rail operators conduct extensive testing to minimise the risks of service disruption or delay,” said Mr Iswaran. “Nevertheless, as rail systems contain many interlinked hardware and software elements, certain issues may surface only during the early phases of full-scale operation before the system stabilises.”
+
+Responding to queries, LTA and SMRT said in a joint statement that the TEL faults are unrelated, and detailed investigations to identify the root causes are ongoing.
+
+LTA and SMRT added they are working with the original equipment manufacturers to investigate and rectify the faulty components of the TEL trains to prevent a repeat of similar incidents.
+
+The four faults on the North-South and East-West lines were also unrelated, they said – one was a train-related fault, one was caused by a train-borne signalling issue, one was a track fault, and the last was a track point fault.
+
+LTA said it works closely with SMRT and manufacturers to maintain rail reliability.
+
+Commuters polled said they are satisfied with the MRT.
+
+Mr Eugene Mok, 37, a programme manager, said: “I am on hybrid work arrangement. On days that I return to office, there are no significant delays and the system seems to be running quite smoothly, even better than before Covid-19 days, although the trains are as crowded as ever.”
+
+IT consultant Davis Li, 39, said: “I use the Downtown Line, and so far no breakdown. The frequency of trains is within expectations too – two to three minutes during peak periods and three to six minutes during non-peak.”
+
+In the 2022 annual commuter satisfaction survey conducted by the Public Transport Council, satisfaction over reliability fell by 0.5 percentage point – dragged down by a 2.4 percentage point drop in bus service reliability and partially offset by a 1.5 percentage point rise in MRT service reliability.

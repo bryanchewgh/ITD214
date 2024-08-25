@@ -1,0 +1,38 @@
+LTA's report of MRT network reliability: How reliable is it?
+
+
+26 May 2017
+
+According to the Land Transport Authority’s Rail Report, the Mass Rapid Transit (MRT) trains traveled further in first quarter of 2017 before encountering short delays, on track with the reliability target.
+“The reliability of the MRT network improved significantly in the first quarter of 2017, with the Mean Kilometre Between Failure (MKBF), measuring delays of more than 5 minutes, for the overall MRT network more than doubling from 174,000 train-km in 2016 to 354,000 train-km in 1Q2017.”
+“This improvement follows the steady progress of our major infrastructure renewal projects, as well as the operators’ investments in improving maintenance procedures and incident recovery processes,” LTA said.
+
+Mean Distance Travelled between Delays > 5 min (train-km) for Overall MRT Network / source: LTA
+It is said that the Downtown Line (DTL) and North East Line (NEL) achieved the highest MKBF across the network, at 1,033,000 train-km and 973,000 train-km respectively.
+The MKBF for the North-South Line (NSL) and the Circle Line (CCL) almost doubled – the NSL improved from 156,000 train-km in 2016 to 291,000 train-km in 1Q2017, while the CCL improved from 228,000 train-km in 2016 to 452,000 train-km in 1Q2017.
+The East-West Line (EWL) also improved by close to 50 per cent – from 145,000 train-km in 2016 to 215,000 train-km in 1Q2017.
+The Rail Report noted the number of service delays exceeding thirty minutes also improved; only one incident across the MRT network – on the EWL – as compared to an average of four per quarter last year.
+
+Mean Distance Travelled between Delays > 5 min (train-km) for MRT Lines / source: LTA
+The overall MKBF for the LRT systems improved from 49,000 car-km in 2016 to 65,000 car-km for the first quarter of 2017 with both the Bukit Panjang LRT (BPLRT) and Sengkang-Punggol LRT (SPLRT) registering improvements in their MKBF.
+Longer service delays exceeding thirty minutes on the LRT network for the first quarter also fell to four, compared to an average of 4.5 per quarter last year.
+
+Mean Distance Travelled between Delays > 5 min (car-km) for Overall LRT Network / source: LTA
+
+Mean Distance Travelled between Delays > 5 min (car-km) for LRT Lines / source: LTA
+ 
+The authority has set a figure of 300,000 train-km for this year’s rail network MKBF target. For comparison, Hong Kong’s Mass Transit Railway achieved 300,000 train-km between delays in 2015, and Taipei’s Rapid Transit Corporation hit a striking distance of 800,000 train-km between delays exceeding five minutes in the same year.
+Though stating that the network’s performance has exceeded the target, LTA deputy chief executive (infrastructure and development) Chua Chong Kheng acknowledged that this is only the first quarter.
+When asked if he expected reliability to fall in the second quarter considering several incidents had occurred, Mr Chua said, “This is over the whole course of the year; while you’ve one incident on the line, there are many good journeys that have been completed on other lines,” The Straits Times reported.
+LTA expects to spend more than $4 billion renewing, upgrading and expanding existing rail assets in the next five years. This is in addition to the about $20 billion that will be spent to build new public transport infrastructure, the Rail Report said.
+But are the reliability results reliable?
+In the below chart, LTA lists down the number of breakdowns that are over 30 minutes.
+
+
+However, if one were to take a look at the chart produced by Failrail.sg, one can see that the number indicated by LTA doesn’t match the figures that are being recorded. The site records occurrences based on media reports and social media posting by the transportation companies.
+
+From time to time, TOC reports breakdowns that are not reported by the transport operators themselves. One such example was on 26 April where a delay occurred along East-West Line (EWL) without an official announcement from SMRT.
+Given that there are probably more breakdowns that go unreported, it is possibly that what Failrail.sg record is lesser than what actually take place.
+Furthermore, as what Leong Sze Hian stated his opinion earlier in a write up, “With the opening of more stations, addition of new trains, etc – isn’t it arguably, kind of like ‘a no-brainer’ to improve the ‘distance travelled before breakdown’ statistics?”.
+Ultimately, the “improvement” in performance might be attributed to the increase of trains and stations rather than the reliability of the network in actual performance.
+LTA’s statement of significant improvement in rail reliability is of no reassurance to commuters who are inconvenienced by the rail companies’ lacklustre standards.

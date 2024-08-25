@@ -1,0 +1,15 @@
+Pedestrian speed-flow model on escalators and staircases in Singapore MRT stations
+
+
+Abstract
+Excessive pedestrian flow in the Mass Rapid Transit (MRT) stations can cause severe congestions. 
+
+The study of pedestrian behaviour, especially on the speed-flow relationship of pedestrians, becomes crucial in planning and design of the MRT stations in order to avoid overcrowding and congestion. 
+
+This paper aims to establish a speed-flow model for pedestrians on escalators as well as staircases, so as to serve as references for future MRT station designs or even for the planning for shopping malls, etc. Video recordings were carried out in Somerset MRT Station, Singapore to collect the relevant data. 
+
+The parameters in the travel time function are then determined. 
+
+The result is also compared with a similar experiment carried out in Hong Kong. 
+
+It is found out that the observed capacity for escalator and staircase in Singapore MRT Stations is comparable with the Hong Kong MTR stations, though the parameters are significantly smaller.

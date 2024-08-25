@@ -1,0 +1,95 @@
+Explainer: How lightning can disrupt MRT operations, and why some areas are more prone to strikes
+
+Published July 5, 2024
+Updated July 8, 2024
+
+In a written parliamentary reply on Tuesday (July 2), Transport Minister Chee Hong Tat said past lightning strikes could be the cause of the two-hour-long disruption to MRT services on June 3
+On June 3, lightning damaged an outdoor trackside power control box near Kranji MRT Station, halting train services between Chua Chu Kang and Woodlands 
+Mr Chee said the area was prone to lightning strikes
+This is not the first time lightning-related power trips have disrupted train operations 
+TODAY spoke to three electrical engineers about how lightning affects MRT equipment, why some areas are more prone to lightning and possible ways to prevent disruptions
+BY
+KONG KIT YAN
+
+
+SINGAPORE — The role of lightning strikes in damaging transport infrastructure is in the spotlight after an update this week on a two-hour disruption to MRT services on the North-South Line on June 3.
+
+Transport Minister Chee Hong Tat said past lightning strikes may have damaged a piece of equipment called a "surge arrester", meaning it could not do its job of protecting an outdoor trackside power control box near Kranji MRT Station from a lightning strike.
+
+The strike damaged the control box and caused a loss of traction power, which led to the disruption to services between Chua Chu Kang and Woodlands, he said in a written parliamentary reply.
+
+The section of the tracks between Marsiling and Kranji MRT Stations is lightning prone, he added.
+
+This is not the first time lightning-related power trips have disrupted train operations.
+
+READ ALSO
+Past lightning strikes may have caused fault that led to 2-hour MRT disruption on June 3: Chee Hong Tat
+On May 11, 2016, it was suspected that lightning struck between Yio Chu Kang and Khatib MRT Stations, causing an hour-long disruption along the North-South Line.
+
+And on Nov 20, 2017, a lightning strike damaged trackside equipment causing a westbound train to stall at Bedok MRT Station.
+
+Train services between Tanah Merah and Paya Lebar stations were reportedly delayed by about 10 minutes following the incident.
+
+While investigations into the June 3 disruption are still ongoing, three electrical engineers interviewed by TODAY offered explanations on why these faults happen, why certain areas are more lightning prone and how to prevent disruptions.
+
+WHAT ARE SURGE ARRESTERS?
+Surge arresters work by limiting the voltage to a level which is safe for the equipment they protect, by conducting the large current from the lightning strike safely to the ground.
+
+Each surge arrester has a rating that determines how much voltage it is able to discharge. 
+
+READ ALSO
+Explainer: Why did lightning bolt skip protection rod at top of Queenstown HDB block? Are buildings in Singapore safe?
+There are three general reasons for a surge arrester to fail, said Emeritus Professor Liew Ah Choy, a lightning protection expert. 
+
+First, current from the lightning could have exceeded the ability of the surge arrester to withstand it
+Second, the surge arrester could have failed to prevent current from flowing through to the equipment it was meant to protect
+Third, the surge arrester could have deteriorated during its usage
+"A surge arrester can deteriorate with each lightning strike it takes especially when the current exceeds the ability of the surge arrester to discharge it to the ground," said Prof Liew. 
+
+WHY ARE SOME AREAS MORE LIGHTNING PRONE?
+Singapore has one of the highest lightning rates in the world. 
+
+According to data from the Singapore Lightning Protection Code, the northwestern parts of Singapore have some of the highest number of lightning flashes at about 28 flashes per sq km per year. The June 3 incident happened in this region.
+
+The geography of land mass, water mass and presence or the absence of prevailing winds can be factors affecting the frequency of lightning in certain areas. 
+
+Prof Liew said thunderstorms in Singapore are mainly tropical storms formed by convection.
+
+READ ALSO
+Explainer: How a lightning strike can lead to a manhole explosion
+The sun's heat warms up the mass of land and water to cause evaporation. The warm, moist air rises and cools forming ice and supercooled water droplets.
+
+The process results in negative charges at the base of a thundercloud and positive charges at the top. A lightning flash to ground is the unleashing of the charge from the cloud to the ground.
+
+Such thunderstorms are more prevalent in areas with calm winds in contrast with areas of prevailing winds which tend to carry and disperse these charges. 
+
+Rising temperatures due to climate change could "boost the odds of a thunderstorm" as it could create warmer and more humid air, Prof Liew said.
+
+Nurjannah Suhaimi/TODAY
+Nurjannah Suhaimi/TODAY
+WHAT CAN BE DONE?
+Without any lightning strikes, the lifespan of a surge arrester typically lasts 15 to 20 years without the need to change, said Mr Lim Say Leong, a member of the Mechanical and Electrical Technical Committee under the Institution of Engineers. 
+
+However, he added that if the surge arrester is hit by frequent lightning strikes, depending on the intensity, its lifespan would be reduced to three to five years. 
+
+READ ALSO
+Lightning strike on Penang beach instantly kills man, injures another
+Additionally, if the intensity of lightning is high, reaching the maximum rating of the arrester, "one strike can end the arrester's life", he said. 
+
+But surge arresters are designed to work in a sacrificial manner to divert intense lightning energy to ground, protecting people and property. Hence, its deterioration is inevitable.
+
+In his parliamentary reply, Mr Chee said that the rail operator SMRT had adhered to the maintenance regime recommended by the manufacturer for the surge arrester. 
+
+"The current lightning protection systems for our MRT network comply with local and international standards, to ensure the safety of our commuters," he wrote. 
+
+He added that the ministry is now working with the manufacturer and the rail operators to review the maintenance frequency of surge arresters. 
+
+The faulty surge arrester has since been replaced and other surge arresters in the vicinity have been found to be in working condition. 
+
+Mr Lim suggested looking at surge arresters with signalling capability. 
+
+"This means that when the arrester reaches end-of-life, there will be a signal to inform them (the authorities) that a replacement is needed," he said. 
+
+Dr Teo Tee Hui, senior lecturer at Singapore University of Technology and Design, said as lightning is unpredictable, frequent maintenance, replacement and constant upgrading of the system to suit environmental changes are necessary. 
+
+Dr Teo also proposed exploring new technologies such as an active lightning arrestor to protect the tracks before the lightning even reaches the control box.

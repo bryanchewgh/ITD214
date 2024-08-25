@@ -1,0 +1,128 @@
+Analysing train breakdowns, line by line
+
+
+Frequent breakdowns in Singapore's rail system raise the question: what gives? While poor maintenance has been singled out as one issue, it doesn't explain why newer lines are also breaking down. Could there be innate flaws in newer lines' infrastructure systems that require further investigation? And should the beleaguered LRT system simply be scrapped?
+
+
+UPDATED JAN 19, 2016, 02:25 PM
+FacebookTelegram
+WHEN the relatively new car you drive keeps breaking down, you can look to only two possible reasons. One, you have not been maintaining it well; two, it was not made well.
+
+You do not have to be an engineer to understand that but, just for the record, a senior engineer dispensed that truism when I asked him recently why our rail system keeps breaking down.
+
+Ever since the two massive breakdowns in 2011 on the North-South Line that led to a costly and time-consuming public inquiry, the spotlight has shone blindingly on the operator - on how it has fallen short on maintenance.
+
+The $10 million inquiry found operator SMRT to be mostly at fault for the pre-Christmas breakdowns that affected more than 200,000 commuters, although it also said the Land Transport Authority was somewhat lacking in its regulatory role.
+
+The 2011 breakdowns resulted in an overhaul of the older North-South and East-West lines, which will take up to 2019 to be completed.
+
+Maintenance has been ramped up and replacements are being planned. In time, the two older lines should be much more reliable than they are today. But in the meantime, commuters may have to bear with the frequency of major breakdowns (those lasting more than 30 minutes each) that has not changed much since 2011.
+
+Last year, the two older lines had six major breakdowns (or an average of one every two months), down from seven in 2011.
+
+The MRT network on the whole has 12 such breakdowns - up from 11 in 2011.
+
+As you can see from those numbers, MRT breakdowns in Singapore are not confined to the older lines. Even the freshly minted Downtown Line Stage 1, which started running in December 2013, broke down more frequently than other lines for every 100,000km clocked by its trains.
+
+The North-East Line, which turns 12 in June, had three major breakdowns last year - up from one in 2011 - even though it showed an improvement in tackling shorter incidents.
+
+What is happening to the train system, and what is being done?
+
+First, it may be necessary to break down the problems by line.
+
+NORTH-SOUTH, EAST-WEST MRT LINES
+- 28 years old
+
+PROBLEMS range from trains to tracks to power supply. Since 2011, several steps have been taken to make these two oldest lines more reliable. These include replacing major components on both trains and infrastructure.
+
+In short, almost everything that can be fixed in the North-South and East-West lines is being fixed. Older trains are being revamped, with new electronic, pneumatic and propulsion systems installed.
+
+Flat spots on wheels have been eradicated, and the trains are moving more smoothly and more quietly now as a result. Backup batteries are checked and charged more regularly now.
+
+The power-supplying third rail - which was the main cause of the 2011 failures - is being replaced. Meanwhile, precision monitoring machines ply the tracks each night to make sure the third rail is perfectly aligned. Another system that measures track vibration was put in place. Yet another that monitors the alignment of the trains' current collector shoes - which make contact with the third rail - has been put in place.
+
+Rail sleepers are being replaced. The signalling system is being replaced. The air-conditioning system of some trains and stations is also being replaced.
+
+At one point, replacing the running rail - the metal tracks that trains run on - was also being considered. Essentially, almost everything besides tunnels and viaducts has been or is being refurbished or replaced.
+
+Granted, all the works will take a few more years to be completed, but with so much effort already expended since 2012, shouldn't the system be more reliable by now?
+
+Actually, the number of glitches pertaining to trains has fallen. The number of train withdrawals - trains withdrawn from service midway because of flaws - has come down from 2.6 per 100,000km operated in 2011 to 0.9 last year. Other minor flaws have also eased. The number of delays lasting over five minutes has also come down, from 1.75 per 100,000km to 1.17 last year.
+
+But the number of major breakdowns - those lasting more than 30 minutes and which cause the most inconvenience - rose last year to 12, the highest in at least four years.
+
+Also, the faults that caused a spate of breakdowns in the first months of this year seem to be train-related. So, what gives?
+
+According to SMRT, the train upgrading programme had just started, and will take up till 2018 to be completed.
+
+To lend some historical perspective, the two lines won international accolades in the early years for being reliable. So, it would appear that the host of problems they have been facing are less to do with build quality than maintenance.
+
+NORTH-EAST, CIRCLE AND DOWNTOWN LINES
+- 12, 6 and 1.25 years old respectively
+
+THESE newer MRT lines have also had their problems - in fact, more than their fair share.
+
+Last year, the Downtown Line Stage 1, which started running in December 2013, broke down more frequently than any other line, with 3.43 delays lasting more than five minutes for every 100,000km clocked. That is nearly three times as frequently as the overall network.
+
+The Land Transport Authority says new lines take six to nine months to "stabilise". Well, assuming that is so, it does not explain why other relatively new lines were also beset with faults.
+
+For instance, 120km of the Circle Line's power cables had to be replaced just three years after the new line opened.
+
+And 1,600 U-bolts holding up the North-East Line's power cables are being replaced. Some of the bolts started to snap when the line was barely 10 years old.
+
+Stainless steel cables of a counter-weight system that kept the power cables taut snapped when the line was nine years old.
+
+And a faulty insulator brought the same line to a standstill when it was only three years old. All these have since been replaced.
+
+Going by these incidents, it would appear that the newer systems have quality issues right from the start.
+
+It would serve us well to understand what these problems are, and why we are having them before we can effectively eradicate them and prevent them from happening again.
+
+Simply assigning blame to poor maintenance will not do anyone any good.
+
+BUKIT PANJANG LRT
+- 16 years
+
+THEN, there is the LRT network. There has been a string of fresh incidents since February, including a fire that shut down the Bukit Panjang LRT system for nearly a day.
+
+The Bukit Panjang LRT system started breaking down practically from the time it opened in 1999. And it has been breaking down regularly ever since.
+
+Last year, it had 3.95 delays lasting more than five minutes for every 100,000km clocked - the highest of any transit line here.
+
+While that is a significant improvement from 5.08 in 2011, the question we should ask here is whether the monumental effort expended to make it more reliable is worth it.
+
+Getting this problematic line in shape may be akin to getting a Lada to perform like a Toyota. You can probably do it with enough willpower, time and finance, but will it be worth it for a line that carries fewer than 100,000 rides a day and which has been incurring losses from year one?
+
+Would it be better to cut losses and scrap the Lada?
+
+After all, the capacity of the LRT line can be met with fewer than 100 feeder buses, which will in fact serve residents better on a door-to-door basis.
+
+Clearly, this was a poorly built system, compounded by less-than-optimal maintenance over the years.
+
+Overview
+
+LOOKING at the disruption statistics from 2011 to last year, it would seem that train faults have been reduced and are under control (with the exception of those of the new Downtown Line).
+
+Much work still needs to be done, though, going by the spate of incidents in the first months of this year. When new trains arrive this year, and when the SMRT train-refurbishment programme gets well under way, our trains should be more reliable.
+
+Faults related to systems and infrastructure remain a challenge.
+
+The ongoing upgrading works on the older lines will take another three years or so to finish, but we need to have a proper assessment of the newer lines to understand if there are fundamental or innate issues that we need to address to prevent serious failure as the lines age.
+
+Rail commuters - who make 2.9 million trips a day and counting - will have no choice but to grit their teeth as the network undergoes various stages of repair and rejuvenation.
+
+Granted, it is not the ideal state of affairs, but commuters in some of the best systems in the world also experience occasional hiccups. Hong Kong's MTR, for instance, had a bad spell last year, with 12 major breakdowns (equalling Singapore's figure).
+
+Before last year, though, Hong Kong's MTR system had a largely pristine record. In fact, it has been a consistent top performer in the CoMET-Nova reliability ranking of 29 international metro operators.
+
+Singapore, on the other hand, has in recent years ranked above average among the 29, but near the bottom among the newer Asian metros.
+
+Tokyo's metro system does not belong to this group, but would easily top the rankings if it did.
+
+In the bigger scheme of things, Singapore's mass rapid transit system is a system in its infancy, compared with those in Tokyo, New York, London and Paris. We are probably at the steepest stage of our learning curve because our first lines are coming of age and require major overhauls for the first time.
+
+But once we go past this steep curve, we should be in a far better position to deal with problems as our newer lines age.
+
+It will take time and money on the part of the Government and operators, and lots of patience and understanding on the part of commuters.
+
+The worrying part would be for us to dismiss the possibility of inherent flaws that no reasonable maintenance regimen will be able to anticipate and address.

@@ -1,0 +1,78 @@
+3-line MRT fault: Alstom to replace 150km of power cables on Tuas West Extension; Oct 14 disruption affected 123,000 commuters
+
+UPDATED OCT 29, 2020, 12:16 AM
+FacebookTelegram
+SINGAPORE - All electrical power cables along the Tuas West Extension will be replaced following a massive three-line breakdown which left more than 6,700 passengers stuck on stranded trains for up to three hours on Oct 14.
+
+In a joint briefing with rail operator SMRT and systems supplier Alstom on Wednesday (Oct 28), the Land Transport Authority said Alstom will replace some 150km of cables which supply power to trains by end-2021.
+
+The replacement cables will have tougher insulation, the French company indicated.
+
+Alstom will also replace all 113 trip coils - core components of circuit breakers - along the three-year-old western stretch of the East-West MRT line by the end of this year.
+
+The company will do so at its own cost, which it did not divulge.
+
+SMRT said the breakdown on Oct 14 during the evening peak affected around 123,000 commuters - 110,000 on the North-South and East-West lines for 3½ hours; as well as 13,000 passengers on the Circle Line for just over an hour.
+
+
+The massive disruption was traced to a burnt section of cable between Tuas Link and Tuas West Road stations.
+
+
+Catch up on the news that everyone’s talking about
+Enter your e-mail
+ Sign up
+By signing up, I accept SPH Media's Terms & Conditions and Privacy Policy as amended from time to time.
+
+
+Yes, I would also like to receive SPH Media Group's SPH Media Limited, its related corporations and affiliates as well as their agents and authorised service providers. marketing and promotions.
+
+The burnt section of cable between Tuas Link and Tuas West Road stations that led to the disruption on Oct 14, 2020. PHOTO: LTA
+The fault should have been isolated by circuit breakers in the vicinity, but one failed to trip as designed due to a faulty trip coil.
+
+This caused a secondary protection system to trip, cutting power supply from a Tuas substation to a stretch of stations along the North-South and East-West lines.
+
+
+A faulty trip coil that failed to trip caused a secondary protection system to trip, cutting power to a stretch of stations along the North-South and East-West lines. PHOTO: LTA
+SMRT then decided to draw power from an alternative substation in Buona Vista.
+
+But it did so without first isolating the power fault in Tuas, and hence allowed the electrical glitch to affect the Circle Line.
+
+
+SMRT chief executive Neo Kian Hong said a staff member and a supervisor had misread equipment at the substation, and thought that the fault had been isolated.
+
+The two have since been suspended from duty, he added.
+
+MORE ON THIS TOPIC
+2 SMRT staff suspended after human error worsened Oct 14 MRT disruption
+Attempt to fix power cable fault led to series of events that worsened MRT breakdown
+It was revealed at the briefing that four similar cable faults had been detected since the Tuas West Extension opened in 2017.
+
+These earlier faults did not lead to any widespread service disruption because circuit breakers meant to isolate them worked, the LTA said.
+
+It raised the matter of the faulty cables with Alstom in January this year, and the contractor agreed to replace the upper layer of cables. Replacement work was to have started in October.
+
+
+SMRT's Mr Neo had also said trip coils along the affected stretch were last checked on Oct 6, just a week before the massive breakdown.
+
+The LTA said there will be early closure and late openings on weekends from next month to facilitate the trip coil replacement.
+
+Full-day closures on Sundays may also take place next year when the cable replacement takes place.
+
+The LTA said the affected cables were of similar design and made by the same manufacturer as those in other parts of the MRT network.
+
+The circuit breakers are also of "established design" and are widely used in the power industry.
+
+MORE ON THIS TOPIC
+Three-line MRT breakdown raises serious, troubling questions
+3 MRT lines hit by power fault: Other major train breakdowns in S'pore
+On its part, SMRT said it will now test circuit breakers every six months instead of 12. The operator added that it will "enhance procedures for power recovery" so that the human error which allowed the Oct 14 fault to spread to the Circle Line "will not recur".
+
+This is not the first time power cables on a relatively new line have been replaced. In 2012, when the Circle Line was around three years old, 120km of its cables - also laid by Alstom - were replaced with more water-resistant cables at a cost of $15 million.
+
+The bulk of the replacement cost was borne by Alstom.
+
+At Wednesday's briefing, the French contractor said it was still investigating what caused the cable and the trip coil to fail.
+
+LTA's new chief executive Ng Lang, just over a month into the job, said the breakdown was a stark reminder that the work to keep the rail system reliable was an unending journey which could be disrupted by the smallest faults.
+
+

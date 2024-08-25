@@ -1,0 +1,40 @@
+Can big data help tackle MRT woes?
+
+
+Published July 15, 2015
+Updated July 15, 2015
+
+
+SMRT’s latest mass breakdown across the major North-South and East-West artery lines is a major concern, all the more so because the underlying root causes remain unclear. In healthcare, it will be hard to prescribe the best treatment unless a proper diagnosis is achieved.
+
+However, diagnosing complex problems is not easy even in the modern era, whether for a medical team caring for a critically ill patient, or an engineering consultant fixing a transport network. In medicine, treatment of one organ may cause side effects in other parts of the body. It is often not clear why two very similar patients treated in the same way can have very different outcomes.
+
+The case is the same with infrastructure in transport and communications, where there are many moving parts, with a mix of brand-new and worn components. Each network is in itself complex, yet can affect other complex networks. How do we master this complexity?
+
+As intensive-care units (ICUs) look after the sickest patients in hospitals, they are the focus of much research, including the use of checklists to improve ICU safety and outcomes. Checklists help prevent known risks, but what about risks that are less predictable and less well understood because of their rarity? That is where big data comes in.
+
+An interesting report in The Wall Street Journal last month details how researchers on ICU operations are now using techniques more commonly seen in Google, Amazon and Facebook. Detailed data on all ICU patients over a few years was collated and analysed, together with information about the broader hospital environment, such as hospital loads, staff ratios and experience levels, and the use of multiple medical devices.
+
+Even outside the ICU, big data is shaping our understanding of what puts patients at risk. Intuitively, we believe that an overworked hospital ward is less safe for patients. But analytics confirms the gut feel. In a study of 82,000 patients across 83 German hospitals, a University of Cologne team found that there was a tipping point beyond 92.5 per cent occupancy that was correlated with increased numbers of patient deaths. Are there lessons we can draw for complex and ageing transport systems?
+
+WHAT’S NEEDED?
+
+Data analytics is finding its way into Singapore’s public transport management. Last year, IBM, StarHub, the Land Transport Authority and SMRT started a big data research collaboration to study commuter movements. Following the recent MRT breakdown, SMRT’s latest news releases suggest a stepping up of data collection on the maintenance front, with “procurement of additional condition monitoring systems”.
+
+But it is not enough just to catch up with existing problems and set things right for today’s MRT system. We must be ready to maintain the network of tomorrow, as the newer lines age. Here, there is a role for combining the use of big data with an Internet of Things paradigm.
+
+Imagine if every operational unit and widget had its own “black box” that relayed real-time information on every train, tunnel segment, power switch, perhaps even every wheel. Information on noise and vibration can tell us if the wheel is wearing down, and at what rate.
+
+Humidity plays a role in corrosion. Do we know how much humidity changes after a rainstorm at ground level, and for how long? Or how the stress levels in concrete are evolving over time? Load factors, measured in detail in real time, can help assess the breakdown risk.
+
+Just as the German hospital study found a tipping point, we can try to identify component and system load levels beyond which failure is much more likely.
+
+It may take years to accumulate a big enough body of data, but this investment in an Internet of Things and big data in the national rail infrastructure is necessary for the operator and the authorities to be better able to predict and prevent system failures.
+
+If market forces alone is not sufficient incentive for private operators to invest in a 10- or 20-year pay-off, there may be a need for some sort of public-private partnerships. Legislation is another option, given that the MRT system forms the backbone of the public transport system and each disruption affects thousands of commuters.
+
+The key step is still to get better data, better knowledge and better understanding of system failures in our rail operations.
+
+Singapore’s small size and high-tech environment make it easier for us to accumulate terabytes of data daily and analyse it.
+
+We can dare to be the Google of smart cities. And it is that kind of daring that will make our infrastructure more reliable and resilient.

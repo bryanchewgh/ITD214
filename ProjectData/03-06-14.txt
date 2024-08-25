@@ -1,0 +1,35 @@
+Big data to help ease transport woes
+
+Published June 3, 2014
+Updated June 3, 2014
+
+
+SINGAPORE — In an effort to help ease the woes of commuters plagued by train breakdowns, delays or other unexpected incidents, transport authorities and operators will turn to big data in a two-year pilot project to improve their response to such incidents.
+
+The Land Transport Authority (LTA), transport operator SMRT, telco StarHub and IT giant IBM yesterday unveiled the pilot, in which passenger data will be gathered for analysis to improve the commuter experience.
+
+Under the programme, the LTA and IBM will obtain depersonalised, location-based commuter data from StarHub, video feeds from key MRT stations and fare card transactions to see which stations are getting too crowded, where bottlenecks are occurring and how many bus-bridging services should be deployed if necessary and how frequently, for instance.
+
+Dubbed Fusion AnalyticS for public Transport Emergency Response (FASTER), the programme can also help authorities and operators manage crowds and send alerts to inform commuters of expected delays so they can plan alternative routes.
+
+SMRT chief executive Desmond Kuek called the programme a potential game-changer. “We now have faster responses by our train station staff during disruptions, near real-time updates on social media and increased urgency in the effort to upgrade our train network. FASTER is a potential game-changer to help in all of these efforts,” he said.
+
+An SMRT spokesperson told TODAY that “as the project is in its early stage, we are unable to specify the MRT stations which will be involved at this preliminary stage”. More details of the programme will be announced as the trial gains traction, he said.
+
+LTA chief executive Chew Hock Yong said: “Through this research collaboration, we endeavour to harness intelligence from the myriad of data collected and, in turn, these analytics will enable us and the transport operators to better manage public transport incidents and special events through improved resource allocation and pre-emptive crowd management.”
+
+This is the first time IBM is deploying such an extensive combination of data in their collaborations with cities, though mobile data from telcos have been used elsewhere. For example, in Istanbul, the company collects billions of pieces of data each week from mobile phone users that reveal how people move through the bustling metropolis. The data provides insights into the daily transport habits of commuters and allows bus operators to adjust service frequencies and coordinate transfers between different buses.
+
+Dr Laura Wynter, director of IBM Research Collaboratory in Singapore, told TODAY the programme here would not go live during the two-year pilot, but would harness a few months’ worth of mobile, video and fare-card data to present a snapshot of the system at any given point in time. “The fare-card data (tells us) how many people are tapping in and out and the telco data gives us an idea of where people come from before they get to the station and where they go after they leave the station. Together, it gives us a mobility pattern for the population,” she said.
+
+“It allows us to better manage the transport network, for instance, knowing what the crowd levels are on the platforms and in the trains, as well as how long is it taking people to get into the trains. It’s giving LTA and the train operator a quantitative understanding of the passenger experience, and that allows them to take different actions,” she added.
+
+On how the success of the programme will be judged, she said the performance indicators will be worked out during the pilot.
+
+The pilot programme ties in with the Government’s goal of making Singapore a “smarter nation” through the use of technology. Senior Minister of State (National Development) Lee Yi Shyan said last week that big data could help citizens enjoy a better quality of life as Singapore faces increasingly complex urban development challenges. Prime Minister Lee Hsien Loong said on Sunday that Singapore was making better use of technology to strengthen citizens’ and residents’ ownership of their shared future.
+
+National University of Singapore’s Professor Lee Der Horng, a transport expert, said the level of data used in the pilot programme was unprecedented in Singapore. “Traditionally, operators or the Government have been very strict in data sharing, and it is not easy for research institutions to obtain such data as well. So, it is a good move,” he said.
+
+However, he cautioned: “Big data can be very useful, but its application or value can be very broad, so authorities have to ask themselves how it can actually help commuters in their daily journeys, looking at factors such as the degree of congestion as well as the arrivals and departures of trains.”
+
+Prof Lee also suggested that the use of big data go hand-in-hand with station designs and operations, such as adjusting the speeds of escalators leading to and from train platforms, and developing systems to give commuters an idea of the level of congestion on platforms.

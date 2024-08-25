@@ -1,0 +1,75 @@
+2 SMRT Staff Suspended After 14 Oct Power Fault, Some Stations Will Close Early For Cable Replacement
+
+
+
+They'll receive training before resuming duties.
+
+By Jonathan Yee - 28 Oct 2020, 6:53 pm
+
+
+Cable Fault & Error Of Judgement Led To Train Breakdown, 2 SMRT Staff Suspended
+The Great SMRT Train Service Disruption on 14 Oct, spanning across 3 MRT lines, affected more than 120,000 passengers and led to a 3-hour disruption.
+
+
+
+“Concurrent faults” involving a faulty power cable and circuit breaker malfunction caused the disruption to be as far-reaching as it was, said the Land Transport Authority (LTA) in a report on Wednesday (28 Oct).
+
+Due to this, the cable contractor will replace 150km of 22kV (kilovolt) cables, as well as 113 trip coils along the Tuas West Extension (TWE).
+
+This will result in some early station closures in 2021, although LTA hasn’t stated which stations will be affected.
+
+Faulty power cable & circuit breaker led to disruption
+On 14 Oct, a 22kV power cable became faulty. This cable was in the electrical zone between Tuas Link and Tuas West Road stations.
+
+Source
+
+LTA explained that this alone wouldn’t cause any disruption if the circuit breaker was working.
+
+However, the circuit breaker at Tuas West Road station also malfunctioned — the trip coil was faulty.
+
+Source
+
+
+This led to a larger disruption, causing a cut-off at the Tuas Depot Intake substation — leading to power disruption on sections of the North-South and East-West Lines.
+
+SMRT staff made error in drawing power, caused Circle Line disruption
+So in order to restore power, an SMRT staff member tried to draw power from the Buona Vista Intake substation instead.
+
+But the faulty cable wasn’t isolated yet, leading to a voltage dip and triggering a safety mechanism.
+
+This shut power to protect the Circle Line’s power system — affecting some parts of the Circle Line between Serangoon and HarbourFront stations.
+
+According to Channel NewsAsia (CNA), both the staff member as well as his supervisor were suspended, SMRT CEO Neo Kian Hong said.
+
+They’ll go through training before they get back to their jobs.
+
+Passengers detrained
+40 minutes into the disruption, SMRT made the decision to detrain passengers who were stuck in the stalled trains.
+
+All but 1 train had passengers moved to the nearest station by 8.42pm, after they started on 7.53pm and 7.59pm for the NSEWL and Circle Line respectively.
+
+There was “inclement weather and lightning risk” near the last train, somewhere around Bukit Batok station. As a result, about 78 passengers stayed on the train until it was brought back to Bukit Batok station at 9.43pm.
+
+Following this, traction power for the 2 lines were restored at 9.54am.
+
+110,000 commuters along the NSEWL were disrupted, while another 13,000 on the Circle Line were also affected — making over 120,000 commuters.
+
+Burnt cables & faulty trip coil replaced
+Investigations on 15 Oct found burnt cables 500m from Tuas Link Station, which LTA says were replaced, along with the faulty trip coil.
+
+Source
+
+Another 2 trip coils were also replaced following “inconsistent performance”.
+
+The upper layer of the TWE power cables were supposed to be replaced this month (Oct) by Alstrom after LTA found that there were 4 faults since 2017.
+
+Now, they’ll instead replace all the 22kV cables — about 150km in total, as well as all 113 trip coils along the TWE.
+
+This will start by end 2020, leading to early closures of stations during weekends starting next month.
+
+Small errors can snowball into large disruptions
+Normally, a power cable fault wouldn’t lead to a disruption of train lines. However, because the circuit breaker was also faulty, the disruption affected multiple lines.
+
+Then a subsequent misread led to the Circle Line’s disruption. It’s a lesson that tiny errors can snowball into large ones — a particularly tricky problem for SMRT and LTA.
+
+SMRT said there’ll be more checks done on circuit breakers – every 6 months – to ensure this issue doesn’t happen again.

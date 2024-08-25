@@ -1,0 +1,93 @@
+4 years after worst MRT breakdown in S'pore history, have rail services improved?
+It's better now.
+
+Joshua Lee |  July 07, 2019, 02:14 PM
+
+
+Singapore's mass rapid transit (MRT) screeched to a literal halt when the North-South Line and East-West Line broke down on July 7, 2015.
+
+
+More than 250,000 commuters were left stranded during the disruption which lasted more than two hours - thanks to a contaminated electrical component resulting from a tunnel leak.
+
+2015 was a bad year for public transport.
+
+That year, Singapore's rail network (including the LRT network) experienced an average of 2.5 disruptions per month from January to June. Crowded trains and buses was also a common grouse among commuters.
+
+Less than two months later, then-Minister for Transport Lui Tuck Yew stepped down. His successor Khaw Boon Wan promised in his first blog post as Transport Minister that things would get better.
+
+So has our rail network improve in that four years?
+
+Rail reliability improved across all lines
+Is our rail network -- particularly the North-South and East-West lines -- better now?
+
+Rail reliability is measured in terms of the distance travelled between delays, specifically delays that last at least five minutes.
+
+That measure is called Mean Kilometre Between Failures (MKBF).
+
+In 2015, trains, on average, travelled 133,000km before a delay.
+
+This figure slowly climbed to 174,000km in 2016 and 181,000km in 2017 before skyrocketing to 690,000km in 2018.
+
+Via LTA
+Here's the breakdown for each MRT line:
+
+ 
+
+Via LTA
+All showed improvement in their MKBF from 2015 to 2018, meaning trains on all lines travelled longer distances between delays.
+
+As of July 2019, the Downtown Line, North-South Line, and North East Line have surpassed the one million MKBF milestone, according to Khaw.
+
+Even the Sengkang-Punggol LRT improved its MKBF from 54,000km in 2015 to 216,000km in 2018.
+
+The Bukit Panjang LRT did not fare so well, though. Its MKBF never breached 55,000km from 2015 to 2018.
+
+In terms of actual service delays, the overall MRT network saw a drop in number in delays that lasted more than 30 minutes. There were 9 such delays in 2018, down from 15 in 2015. That's a 40 per cent drop.
+
+The LRT did not fare so well - showing only a 27 per cent decrease in long delays from 2015 to 2018.
+
+
+Overhaul of the North-South and East-West Lines
+A large part of the improved rail reliability is due to a massive overhaul of the North-South and East West Lines which started in 2013.
+
+Three core components -- the sleepers, third rail, and signalling system -- on both lines have been completely renewed.
+
+The original ageing wooden sleepers were replaced by concrete ones which will last longer.
+
+Old sleepers also need to be replaced as worn out ones make rides more bumpy.
+
+The third rail -- which provides power to the trains -- were replaced as well to prevent power faults that result from wear-and-tear.
+
+Lastly, the North-South and East-West Lines were fitted with a new signalling system (the Communications Based Train Control system) which allows for a smaller safety distance between trains. This reduces the interval between trains which means a shorter wait for commuters.
+
+All five rail lines are now using the CBTC signalling system.
+
+Another three core components -- the power system, trains, and track circuits are on track to be fully renewed by 2023.
+
+Older trains on the North-South and East West Lines, in particular, are being upgraded with sub-systems such as air conditioning, electric doors, brakes and propulsion system. They will also come with sensors that report the trains' state of health.
+
+Other improvements
+Aside from the NSEWL overhaul, other small changes have helped.
+
+The Bukit Panjang LRT system is also currently undergoing a four-year overhaul to replace its signalling system and vehicles which started in 2018.
+
+In the same year, LTA announced that a new monitoring system which can potentially identify faults before they occur will be introduced across the entire rail network soon, starting with the Downtown Line in mid-2020.
+
+New trains procured by LTA will also come with condition monitoring systems which allow engineers to monitor the health of the trains continuously.
+
+To alleviate congestion on trains, LTA has procured more than 140 new trains for the five rail lines since 2015.
+
+
+The Travel Smart Programme, which rewards commuters who travel outside of the morning peak period (hence alleviating crowded peak ridership) has seen positive results.
+
+LTA said that there was a 12 per cent increase in number of commuters who travelled during the morning pre-peak period in 2018.
+
+12 per cent might not seem much but when compared to the 2 per cent increase in morning peak ridership growth, it is a considerable jump.
+
+So four years on, Singapore's rail network has seen some improvements.
+
+However, colleagues tell me that their morning commutes along the East-West Line are still packed, especially at major interchanges like Jurong East station.
+
+Other such complaints can be still gleamed across social media.
+
+Admittedly, it's not perfect yet, but we might just be on our way there.

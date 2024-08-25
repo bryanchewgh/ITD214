@@ -1,0 +1,55 @@
+IN FULL: Transport Minister responds to parliamentary questions on 14 Oct MRT breakdown
+
+ByJewel Stolarchuk
+NOVEMBER 5, 2020
+
+
+Transport Minister Ong Ye Kung gave an account of the massive MRT service breakdown over three train lines that took place on 14 Oct, in Parliament on Tuesday (3 Nov). He was responding to a series of parliamentary questions filed by members from both sides of the aisle who had asked for more clarity on the causes of the incident.
+
+MPs had also asked about how the processes and protocols will be improved moving forward and what lessons have been wrought from the incident. Read the minister’s response in full here:
+
+“The 14 Oct 2020 incident was significant, and affected over 120,000 commuters. As with this House, I am concerned about the disruption. Our imperative must be to get to the bottom of the matter, take follow up actions and prevent similar incidences from recurring.
+
+LTA has therefore investigated the incident thoroughly with inputs from the operator SMRT and the equipment supplier Alstom, identified what went wrong, and has started to address the gaps and shortcomings. On 28 Oct 2020, LTA issued a detailed media statement and its full investigation report. Together with SMRT and Alstom, they held a joint media briefing the same day to explain the cause of the incident, the follow up actions and answered many questions. Their findings, including answers to many of the questions posed by Members, were widely covered in the media.
+
+Mr Speaker Sir, let me recap the pertinent points. The disruption was caused by the occurrence of concurrent faults and one mistake. First, there was a 22kV (kilovolt) power cable fault in the electrical zone between Tuas Link and Tuas West Road stations, along the Tuas West Extension. This would not have caused a disruption if the circuit breaker, which is a protection feature of the system, had kicked in and isolated the affected electrical zone.
+
+But a second fault occurred, in that the circuit breaker at Tuas West Road station, close to where the faulty cable was, malfunctioned. It was later found out that the trip coil, which is a component of the circuit breaker, was faulty.
+
+A secondary protection mechanism at the sector level did kick in and isolated the fault. But that cut off power supply across large sections of the North-South and East-West Lines. At that point, the Operations Control Centre made a mistake and did not isolate the fault before drawing power from the Buona Vista Intake substation. As the Buona Vista Intake substation also supplies power to the Circle Line, this in turn affected train services along parts of the Circle Line.
+
+Members have asked: Why was the power cable faulty? Why didn’t the primary circuit breaker, which is the first level of protection, work? Why didn’t the Operations Control Centre remotely isolate the fault before powering up?
+
+LTA, SMRT and Alstom have given their explanations during the media briefing. The reasons for the component failures are still unknown. The faulty power cable and the circuit breaker have been sent for forensic examination by the original equipment manufacturer, to ascertain the reasons for failure.
+
+What we do know is that there have been four power cable failures along the Tuas West Extension since 2018. LTA and SMRT had earlier expressed their concerns to Alstom, the supplier, who has agreed to replace some of the cables. In fact, work was on track to start in the later part of October.
+
+Following this recent incident, Alstom will conduct a complete replacement of all the power cables – a total length of 150km – along the Tuas West Extension. This is quite a major undertaking and will be completed progressively by the end of next year. The cables will take time to procure and arrive. At the right time, LTA will schedule Early Closures and Late Openings on weekends or Full Sunday Closures for limited periods in 2021 to facilitate the cable replacement works. We will announce these plans in due course.
+
+Following this incident, Alstom will also replace all 113 trip coils in the circuit breakers along the Tuas West Extension, by the end of this year. LTA will implement weekend Early Closures to facilitate the replacement exercise and we seek commuters’ understanding for the inconvenience caused. During this time, SMRT will also step up the frequency of mechanical testing of the circuit breakers of this sector from annually to every six months. This is in addition to visual inspections of the trip coils once every ten days, to ensure that they are in working order.
+
+As for the Operations Control Centre not isolating the fault before drawing power from Buona Vista Intake substation, this was a human error. Members asked if there was a Standard Operating Procedure (SOP) in responding to such a situation. There are, in fact, many sets of SOPs to cater to different scenarios, but one thing we have learned over the years is that every disruption is different and unique. So besides being guided by SOPs, the engineers on duty will have to exercise judgment and make quick decisions during an emergency.
+
+I have not been in their shoes and cannot imagine the challenge they are facing. But under the pressure of time and circumstances, the personnel involved made an honest mistake. I have no doubt this has been a major lesson for them, they wish they had decided differently, and they have much learning to share with their colleagues, so that such a mistake will not happen again.
+
+Members also asked about evacuation and crowd control. I want to assure Members that LTA, SMRT and the Home Team jointly conduct emergency preparedness exercises every year. SMRT staff also regularly get refreshed on their roles and responsibilities during a service disruption. On the evening of the disruption, the SOPs were promptly implemented. About 400 additional SMRT staff were immediately activated to both rectify the fault and help affected commuters.
+
+Safety of commuters is the top priority during service recovery. That is why detraining commuters is always a last resort, because to have commuters walking along the track poses risk, especially for those who are elderly or handicapped, and needs to be very carefully carried out. The Operations Control Centre has to balance the risk posed by detrainment, against the discomfort and heightened anxiety of commuters on the stalled trains. Hence, as far as possible, the Operations Control Centre will try to restore power to the trains to bring commuters to the nearest station.
+
+However, 40 minutes into the disruption, the Operations Control Centre concluded that it could not restore power to the system quickly and decided on detrainment. Train captains carried out the safety protocols, and station staff walked on the tracks to the trains to guide commuters to the nearest stations. All 6,800 commuters on the stalled trains were brought safely to the nearest station platform in under an hour, except for the 78 commuters whose detrainment was delayed by inclement weather and lightning risk.
+
+Free boarding of regular bus services was activated within ten minutes of the incident to disperse the crowds outside the train stations. 120 bridging buses were in place within 35 minutes of the incident and SMRT staff guided commuters to look for suitable alternative transport arrangements to carry on with their journeys.
+
+Despite this, crowds built up around the affected MRT stations. This is unfortunately inevitable in the event of a train disruption. While there is understandably concern about overcrowding given the current COVID-19situation, it will not be practical to ensure physical distancing without further inconveniencing the affected commuters in such an unexpected situation. The Transport team simply has to do our best to prevent such incidents from happening in the first place, and to rectify the incidents as quickly as possible should they occur. Thankfully, on that evening, commuters were very cooperative. They continued to wear their masks and minimised talking to each other, and I thank the commuters for their understanding and doing their part under trying circumstances.
+
+In the course of their investigations, our engineers learnt many useful lessons, to improve operations and maintenance. There are also wider, non-engineering lessons too for policy makers and I think, for this House as well.
+
+First, mass rapid transit systems are very complex. Engineers who have worked on mass rapid transits and other systems, and have a basis for comparison, will very likely testify to that. Several fields of engineering converge to get a mass rapid transit system to work reliably to carry millions of commuters safely, for many hours throughout the day. Given its complexity, when a major disruption occurs, the circumstances and causes are often unique.
+
+Second, because of the nature of mass rapid transit systems, we should never be complacent. Keep learning and keep improving. Always emphasise building up engineering and operational capabilities and experience. Regularly review SOPs and staff training to ensure processes are up to date and everyone in the team knows what to do when the need arises.
+
+Third, MOT, LTA, SMRT and SBST must work as one team. This is the spirit of the One Transport Team. We coined the term to remind ourselves of the imperative. This was how we managed to significantly improve the reliability of our MRT system, bringing the Mean Kilometres Between Failures (MKBF) from under 200,000 train-km five years ago up to more than 1million train-km today.
+
+With the recent disruption, the morale of the teams on the ground has taken a hit. Nobody wishes for an incident like this to happen, but when it did, we should not let it break our spirit.
+
+There are many honest and hardworking people who have toiled over the past few years to make our MRT system among the most reliable in the world. By believing in them and in ourselves, we can stand tall, be united again and press on with our work. So as a team, we take collective responsibility, not finger point, and we will do our best, address the shortcomings and close the gaps. Only then can we continue to fulfil our collective mission of serving commuters well.”

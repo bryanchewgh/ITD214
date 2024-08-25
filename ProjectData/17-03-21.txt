@@ -1,0 +1,66 @@
+Cut in power cable insulation, rusted circuit breaker caused Oct 14 MRT breakdown: Ong Ye Kung
+
+
+Published March 17, 2021
+Updated March 18, 2021
+
+Investigations into the Oct 14 MRT breakdown have concluded
+The fault was traced to a cut in the power cable’s insulation and a rusty circuit breaker
+The circuit breaker’s trip coils, which were replaced after the incident, will be changed out again with ones of a different material
+ 
+
+SINGAPORE — An investigation into a massive train disruption that left thousands of commuters stranded last October has traced the fault to a rusted circuit breaker and a damaged power cable, Transport Minister Ong Ye Kung said on Wednesday (March 17).
+
+The breakdown on Oct 14 across three train lines was triggered by a short circuit of the power cables along the Tuas West Extension (TWE), which was supposed to activate a circuit breaker.
+
+But that, too, failed to kick in because one of its components — a trip coil — had rusted.
+
+READ ALSO
+Power fault disrupts MRT services on North-South Line, East-West Line and Circle Line
+The 113 trip coils along the TWE, which had already been changed last year, will be replaced again with stainless steel ones by the third quarter of next year to prevent them from rusting again, Mr Ong said.
+
+The current coils are made of carbon steel with a nickel coating.
+
+Mr Ong gave details of the investigation findings in a speech at a groundbreaking ceremony of a new integrated train testing centre in Tuas which, once completed, will allow testing round the clock rather than the limited hours engineers have to test them on the main tracks.
+
+The investigation into the train disruption was carried out by the Land Transport Authority (LTA) and its vendor, French train manufacturer Alstom, which will bear the costs for both rounds of replacing the trip coils.
+
+“What I described is a very typical story of any major train disruption. When you dig deep enough, you will trace the cause to a few tiny glitches happening at the same time,” Mr Ong said. “But this is enough to paralyse a large segment of the MRT network.”
+
+Train operator SMRT has also stepped up its maintenance works of the trip coils to every three months. This was previously done every year and was increased to once every six months following the Oct 14 disruption.
+
+READ ALSO
+Insulation fault on power cable caused MRT disruption: SMRT preliminary findings
+INVESTIGATION FINDINGS
+
+The forensic investigation by the LTA and Alstom found that there was likely to have been a manufacturing defect or mishandling during installation of the cables that caused a cut in the internal insulating layer of the cables, Mr Ong said.
+
+This caused a short circuit on Oct 14, which was supposed to have activated a circuit breaker.
+
+But the trip coil in the circuit breaker also failed because a plunger, which moves to allow the circuit breaker to kick in, had rusted.
+
+The build up of rust was likely due to inadequate protective covering linked to a specific manufacturing batch, the investigation found.
+
+Beyond replacing the trip coils, LTA has also adjusted the settings on the space heaters to reduce the humidity level within the circuit breakers to prevent further rusting, Mr Ong added.
+
+READ ALSO
+MRT train testing facility to be fully operational by 2024
+THE OCT 14 BREAKDOWN
+
+The disruption caused by the power fault on Oct 14 during the evening rush hour affected more than 120,000 passengers and train service on some lines for more than three hours.
+
+A total of 36 stations were affected across the North-South, East-West and Circle lines and more than 6,700 passengers had to be let out of stalled trains.
+
+While the fault started with physical components, human error by two SMRT staff members led to the disruption having a knock-on effect on the Circle Line, LTA said in an earlier briefing on its findings two weeks after the breakdown.
+
+The two staff misread a graphic display and thought that the cable fault had already been isolated within its electrical zone and attempted to draw power from a substation at Buona Vista, which also supplies power to the Circle Line, causing the line’s power system to trip.
+
+The pair were suspended from their duties and required to undergo retraining and recertification before they can resume work.
+
+TODAY has asked SMRT whether any further disciplinary actions were taken against them or any other staff members.
+
+Alstom will also replace 150km of power cables along the TWE with ones that have a more resistant internal structure and a thicker metallic screen.
+
+Replacement works have already begun. To speed this up, some stations along the TWE will be closed on Sundays from March 14 to May 23.
+
+Bridging bus services will be provided while the stations are closed.

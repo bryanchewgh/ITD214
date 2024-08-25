@@ -1,0 +1,35 @@
+Root cause of rail breakdown not found; PM ‘very concerned’
+
+Published July 9, 2015
+Updated July 9, 2015
+
+
+SINGAPORE — While an overnight sweep of the North-South and East-West lines turned up several faults including damaged power cables and water leakage, the authorities and train operator SMRT were still none the wiser about the root cause of Tuesday’s unprecedented breakdown — prompting Prime Minister Lee Hsien Loong to express his concern that the problem, which brought the two lines to a complete halt and left about 250,000 commuters stranded across the island, could flare up again.
+
+Mr Lee noted that Land Transport Authority and SMRT staff worked overnight to check the trains, tracks and cables, and the trains resumed full service throughout yesterday without a glitch. “But because we have not identified the root cause of the power trips, we are still very worried that the problem may recur,” Mr Lee wrote on Facebook.
+
+Mr Lee said he was “very concerned” about the breakdown and was briefed about the situation at the LTA Operations Centre yesterday. “We are still trying to find out the cause of the problem... Hope we identify and resolve the faults quickly, to prevent further inconvenience to commuters.”
+
+Earlier, LTA and SMRT held a press conference where SMRT Trains managing director Lee Ling Wee said that overnight checks idenitified two damaged power cables along the North-South line near Bishan MRT station, a faulty relay system at Kranji’s power substation, and a water leakage close to the third-rail insulator at Tanjong Pagar station. While these problems had been rectified, they did not provide a conclusive picture of what could have caused the multiple power trips, which intensified and forced SMRT to shut down the lines — which made up the bulk of the Republic’s MRT network and ran through 54 stations.
+
+The problem, which was unlike anything SMRT had dealt with before, was baffling its experts. “We are not 100 per cent sure on the root cause,” he said. He noted that it could be a combination or any of several factors such as from train and track conditions, train frequency, and the amount of moisture on the tracks.
+
+There are protective relay systems installed in power substations along the North-South and East-West lines, which are activated when voltage between the running rail and electrical earth surges beyond a safe limit. The fact that the running rail is connected across both lines complicates investigations, he said. “So it is very hard for us to isolate exactly where this breakdown in insulation was … (But) if we don’t do it, it will happen in different parts of the network; it is unpredictable, it is random, depending on how many train runs in the system. Where there are more trains, the chance of it happening is higher,” he said.
+
+Train services ground to a halt at 7.15pm on Tuesday. The first signs of trouble surfaced more than an hour earlier, when SMRT detected multiple power trips. These were initially rectified but the power trips intensified in frequency and impact, and eventually caused nine trains to stall between stations. SMRT managed to get these trains moving again to the nearest stations before it shut down the system.
+
+Working through the night, engineers checked the trains, tracks and power systems for anomalies such as burn marks, and dislodged and dangling cables. Preliminary investigations initially narrowed the problem to a faulty train but it was later found to be normal.
+
+SMRT’s Mr Lee said the glitches discovered during the overnight checks were not identified during routine maintenance checks, which are conducted every six months, with more comprehensive checks carried out once a year. “Our routine checks do cover these (components) but ... it’s not like (checks are done) every day ... so you can expect, in an ageing system, some of these may fail in between the intervals,” he said.
+
+“There (was) no reason for us to suspect that these things will fail, because all regular maintenance checks have not uncovered such issues in the past.”
+
+Nevertheless, he said that SMRT may increase the frequency of the checks and look into installing monitoring devices that can spot faults on a real-time basis. With 45 more trains to be added to the North-South and East-West lines after the completion of sleeper replacement and re-signaling work, SMRT will engage external consultants to assess the lines’ power capacity and robustness “with more urgency” following the breakdown, he added. LTA chief executive Chew Men Leong said a new voltage-limiting device has been piloted for Downtown Line 1, which can isolate power trips.
+
+Transport experts whom TODAY spoke to called on SMRT to step up its maintenance regime, including by making use of latest technology.
+
+SIM University transport analyst Park Byung Joon said that real-time sensors may help nip glitches in the bud. “Since it is not physically possible to expand maintenance hours, it is time to think about more expensive investments to enhance the maintenance schedule,” he said.
+
+National University of Singapore engineering professor Lee Der-Horng added: “Perhaps (SMRT) should shorten the intervals between routine checks. I would have thought that SMRT would have accumulated enough experience and data to determine an optimal maintenance regime.”
+
+At the press conference, both Mr Chew and SMRT chief executive Desmond Kuek apologised again to affected commuters. Mr Kuek said: “(The incident) is a stark reminder that the journey to bringing about a higher order of reliability and assurance is a difficult one … but we are committed to it.”

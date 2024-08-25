@@ -1,0 +1,60 @@
+China-made MRT trains recalled due to cracks
+
+5 July 2016
+
+In a 5th July 2016 article by Hong Kong-based watchdog journalism outlet Factwire, 26 out of 35 China-made MRT trains have been recalled due to cracks. These six-car trains, totalling 156 cars, were found to have cracks in the structure connecting the car body and the bogie after they were delivered in 2013.
+
+The trains in question are the Kawasaki Heavy Industries & CSR Qingdao Sifang C151A rolling stock. Details of the defects and the recalls were never released to the public in both Singapore and China prior to the publication of the exposé. The incident quickly raised a significant amount of public attention in Singapore, where the build quality of these trains was called into question.
+
+This article aims to give an overview based on the facts available to the public.
+
+So what were these trains?
+C151A Train on the right, with an older C151 train on the left
+C151A train on the right, with an older C151 train on the left
+The 35 trains were the fourth generation of rolling stock intended to boost capacity on the North South and East West Lines. With six cars each, they were produced by a joint venture between Kawasaki Heavy Industries (Japan) & CSR Qingdao Sifang Locomotive & Rolling Stock Co., Ltd (China), better known as CSR Sifang. They are referred to as the C151A train, after LTA’s procurement contract known as Contract 151A.
+
+In 2009, LTA awarded the contract for the first 22 trains at a cost of S$369 million, beating Hyundai Rotem, Bombardier Transportation and Mitsubishi Heavy Industries to secure the contract despite Hyundai Rotem offering the lowest bid at S$323 million. Singapore authorities chose to award the bid to Kawasaki Heavy Industries-CSR Sifang after a comprehensive evaluation likely in hopes of better product quality, as Kawasaki was involved in delivering the first generation (C151) and third generation (C715B) rolling stock.
+
+LTA later expanded the order for an additional 13 trains of the same type in 2013, bringing the total to 35 trains. The first 22 trains were introduced between 2011-12, and the additional 13 trains in 2013-14. SMRT currently operates these trains on the North South Line (NSL) and East West Line (EWL).
+
+How did problems mount?
+In December 2011, a series of two major breakdowns along SMRT’s North South Line was caused by unexpected failures of the third rail, which pointed early suspicion towards the recently-introduced C151A trains, which were heavier than their predecessors and might have caused more vibrations on the rails leading to such a failure. An investigation later found the C151A trains to be not at fault.
+
+However, away from the public eye, problems were mounting for the C151A trains ever since their introduction. Factwire sources said the trains were of poor quality and that the glass next to passenger seats had repeatedly shattered due to shoddy workmanship. In 2011, one of the trains’ Chinese-made uninterruptible power supply batteries ‘exploded during repair’ (later confirmed to be a battery housing cover flying open due to a build-up of gases). While there were no injuries, Kawasaki Heavy Industries-CSR Sifang replaced all of the China-made batteries with ones made in Germany.
+
+Factwire’s source within the Chinese railway industry source stated that quality issues with the Chinese-made C151A trains began to worsen in 2013. Cracks were said to have been found in structural components, including the sub-floor – a compartment under the passenger floor holding the equipment box and electrical wires – and bolster function parts connecting the car body to the bogie, the latter having the most serious problems. “It’s a structural problem,” said the source. “The bolster function balances the train’s weight and swing range, [therefore] cracks are dynamic, [they] can spread to the train car body with the bolster function, so the entire train car must be replaced.”
+
+Such failures came as a shock to many in the railway industry, where such issues surface usually due to ageing. With cracks plaguing brand-new rolling stock, along with glass shattering and battery explosion incidents, the quality control of the entire manufacturing process came under suspicion.
+
+According to a 2009 press release by Kawasaki Heavy Industries, it was responsible for overseeing the project, designing and manufacturing the train bogies, and buying the major train components. The press release also stated that CSR Sifang was responsible for manufacturing other parts of the train car body, assembling the trains, and conducting factory tests. Concerns about shoddy workmanship on the part of CSR Sifang were hence not entirely unfounded.
+
+What was reported?
+On 12th June 2016 after 1 am, the Hong Kong outlet followed two train cars being transported from SMRT’s Bishan Depot to Jurong Port, joining another six train cars already at one corner of the port, all of which were wrapped in green canvas. The trains reached the factory of train manufacturer CSR Sifang, located in Qingdao’s Chengyang district, on 25th June 2016.
+
+In a report published on 5th July 2016, Factwire broke the story on the malfunctioning C151A trains, with local media outlets picking up the story hours later. The issue became a talking point among many Singaporeans over the quality of Chinese-made vehicles, many criticising the Government’s decision to purchase China-made trains when Japanese-made trains have been operating reliably on the North South and East West Lines since their introduction in the late 1980s. It also came as a surprise to many that a foreign news outlet would break the news of such public interest while SMRT and LTA had been keeping mum about these problems. Blame for the procurement of C151A trains was also unfairly directed at SMRT Trains, when such a decision was in fact undertaken by the LTA.
+
+Shortly after the revelations, SMRT and LTA independently commented that the defective trains, which were still under warranty, would be repaired by the manufacturer over a period of a few years. LTA chose instead to comment on the safety measures taken before trains are operational, describing the defects as ‘not safety-critical and would not affect the operational safety of the trains.
+
+
+
+
+
+A source from CSR Sifang told FactWire that at least five trains had been replaced since the year before (Year 2015). They also said Kawasaki Heavy Industries was taking over the manufacturing of the flawed aluminium train car body, while CSR Sifang was only responsible for reassembling the train cars. Arriving in Qingdao after half a month of shipping, each train car was disassembled and its parts refitted into the new car body. Tests are then conducted before the new trains are shipped back to Singapore, completing the four-month repair process. Rectification work is expected to be completed in 2019.
+
+The original train car bodies were likely to be scrapped, resulting in tremendous losses for the manufacturer, who bore the cost of the repairs, and the shipment of these trains to and from Singapore.
+
+Government Response
+Transport Minister Khaw Boon Wan made his first comments on 12 July 2016 at a media briefing at Bishan Depot, clarifying many facts about the case. 27 months after the C151A trains were put into service, a routine check in July 2013 revealed hairline cracks on the bolster — an aluminium alloy structure supporting the train car body, which rests on the undercarriage attached to the wheels. By then, the fleet had covered an average of 300,000 km per train on the tracks. Most of the cracks (95 per cent) were less than 30cm, while two bolsters were found with 40 to 50cm cracks.
+
+The LTA then started shipping the 26 defective trains back to China — one at a time — for repairs from July 2014 for the replacement of the entire car-body shell under warranty. As of July 2016, five trains have been fixed and returned to service, and a sixth train was concurrently undergoing repair works. To ensure adequate train availability, only one train (six train cars) was sent back for repair at any one time. From 2017, two trains were sent back concurrently with more new and upgraded trains on the NSL and EWL to maintain train availability. As for the 9 remaining trains, they were rectified during production before being shipped to Singapore.
+
+The hairline cracks were determined to be caused by a “localised impurity in the aluminium car-body material” during the manufacturing process, and assessed by LTA and Kawasaki to remain safe for service. A third-party assessor, TUV Rheinland, concurred with these findings.
+
+Following this episode, the contractor changed its bolster supplier from the China-based Longkou Conglin to the Japanese firm Kobe Steel.
+
+Mr Khaw also mentioned that going public for something that was “not a major event” might have caused unnecessary panic to the layman, noting that to engineers, not all cracks are the same, and that cracks found on the train had no relation to any train delays longer than five minutes. At the same time, he alleged that the cracks were a routine matter that had been “mis-spun into a controversy”, especially since Hong Kong’s FactWire news agency appealed to factions in the city with an anti-China political agenda. “Unfortunately, we become a convenient bullet and collateral damage”, he was quoted as saying.
+
+In response to Khaw Boon Wan’s comments, FactWire dismissed allegations of commercial or political interests, stating that it is entirely funded by the public. It also expressed regret over Khaw’s insinuations instead of taking responsibility for the incident.
+
+Unconfirmed Rumors
+Rumours circulating online have alleged that SMRT and LTA knew about the flaws in the early stages of operation in 2011, and expanded the order of 22 C151A trains by another 13 trains, hoping to carefully coordinate the process of sending back faulty trains to China with the introduction of new trains built to the exact same specifications, so as not to raise suspicions by the sudden withdrawal of the C151A trains. Unfortunately for LTA, it was unable to foresee that the new batch of trains would also suffer from similar defects.

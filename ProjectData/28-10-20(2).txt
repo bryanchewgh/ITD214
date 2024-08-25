@@ -1,0 +1,110 @@
+Timeline: How a power fault caused an hours-long disruption on three MRT lines on Oct 14
+
+28 Oct 2020 05:43PM
+(Updated: 03 Feb 2021 12:14PM)
+
+SINGAPORE: Train services on three MRT lines were disrupted on the evening of Oct 14 due to concurrent electrical faults, affecting 15 trains and 123,000 commuters.
+
+The power trip affected the North-South Line (NSL) between Woodlands and Jurong East stations, the East-West Line (EWL) between Queenstown and Gul Circle stations, and the Circle Line between Serangoon and HarbourFront stations.
+
+As a result, passengers had to be evacuated from the stalled trains and asked to walk on the tracks to make their way back to nearby stations. Bus stops were also packed as commuters rushed to continue their journeys by alternative means.
+
+Here is how the events unfolded:
+
+6.58PM
+
+A breakdown of insulation of a power cable between Tuas Link and Tuas West Road stations caused a power outage on the NSL and EWL. This caused 12 trains to stall on the viaduct sections in between stations. 
+
+In-train lighting and air-conditioning were also affected. Backup battery on the affected trains automatically kicked in to provide emergency lighting as well as mechanical ventilation, said the Land Transport Authority (LTA).
+
+Services between Woodlands and Jurong East on the NSL, and between Queenstown and Gul Circle on the EWL were disrupted.
+
+
+Crowds enter a bridging bus at Buona Vista MRT station after a power fault disrupted train services on several lines on Oct 14, 2020. (Photo: Christy Yip)
+
+Crowds waiting for buses at Clementi MRT station after a power fault disrupted train services on several lines on Oct 14, 2020. (Photo: Ang Hwee Min)
+Free regular bus and bridging bus services were made available. 
+
+To maintain train services on the unaffected stations, trains were turned around at nearby stations. Single-line train shuttle services were implemented between Marsiling and Woodlands stations on the NSL, as well as between Dover and Queenstown on the EWL.
+
+To restore power to both lines, an attempt to draw power from the Buona Vista Intake substation was performed. SMRT said that as this was done “without first isolating the fault”, a power supply disruption then occurred on the Circle Line, which is also served by the substation.
+
+READ: Train services resume on North-South, East-West, Circle lines after disruption due to power fault
+7.34PM
+
+A second power outage occurred, affecting services on the Circle Line between Serangoon and HarbourFront.
+
+Three trains were stalled in the tunnels with commuters on board. 
+
+Trains were turned around at Serangoon and Tai Seng stations towards Stadium to continue providing services on unaffected sections of the Circle Line.
+
+7.38PM
+
+After assessing that the power supply could not be quickly restored, SMRT initiated the detrainment of passengers on the affected NSL and EWL trains. To protect staff and commuters, electrical protection devices were installed to prevent traction power from being accidentally turned on. 
+
+
+Passengers on a train near Kranji on the North-South Line towards Woodlands evacuated after a power fault disrupted the MRT service on several lines on Oct 14, 2020. (Photo: Julie Chan)
+7.53PM
+
+Detrainment commenced for the 12 stalled trains on the NSL and EWL. SMRT staff walked along the tracks to reach the stalled trains and check on the well-being of the passengers on board, as well as to assist and guide them back to the nearest station.
+
+7.59PM
+
+Detrainment commenced for the three stalled trains on the Circle Line.
+
+8PM
+
+Power supply was restored on the Circle Line after power was drawn from Bishan Depot Intake. However, restoring traction power was held back for safety reasons, as detrainment of commuters had already commenced.
+
+
+Crowds at Buona Vista MRT station after a power fault disrupted train services on several lines on Oct 14, 2020. (Photo: Christy Yip)
+8.17PM
+
+Detrainment for commuters on the Circle Line was completed.  
+
+8.42PM
+
+Detrainment concluded for commuters on the NSL and EWL, with the exception of one train near Bukit Batok station. Detrainment for it was delayed due to inclement weather and lightning risk.
+
+8.43PM
+
+Train services along the Circle Line progressively resumed after safety checks were completed, about an hour after the disruption was reported. About 13,000 commuters were affected, including 275 who were on the trains.
+
+9.32PM
+
+SMRT announced on Twitter that free regular bus and bridging bus services for affected Circle Line stations had ceased. 
+
+9.43PM
+
+Detrainment concluded for the train that stalled near Bukit Batok station. The more than 70 commuters who had remained onboard until traction power was restored in the sector alighted directly at the station platform.  
+
+10.34PM
+
+Train services on the NSL and EWL were progressively restored following safety checks, more than three-and-a-half hours after the disruption was reported.
+
+The disruption on these two lines alone affected about 110,000 commuters, including about 6,500 who had been on the trains. 
+
+READ: Power cable insulation fault started chain of events that led to MRT service disruption - SMRT
+EARLY HOURS OF OCT 15
+
+At site investigations conducted during engineering hours, it was found that a section of 22kV cables located about 400m from Tuas Link station had burnt through. 
+
+The faulty trip coil and faulty cables have since been replaced, said LTA. 
+
+Later the same day, a maintenance team inspected all stations on the Tuas West Extension to ensure that the circuit breakers’ trip coils were functional.
+
+Two were found to exhibit inconsistent performance and replaced. The faulty coils were then sent for further forensic investigation.
+
+OCTOBER
+
+Replacement work was scheduled to commence for the affected power cables.
+
+NOVEMBER
+
+Contractor Alstom has agreed to replace all the 22kV cables following the disruption on Oct 14. To ensure that power cable faults will not cause another service disruption, all 113 trip coils along the Tuas West Expansion will also be replaced.
+
+The Land Transport Authority will implement weekly early closures from November so the replacement of the trip coils can be completed by the end of the year.
+
+Early closures or late openings on weekends or full Sunday closures will also be scheduled in 2021 to facilitate physical cable replacement works.
+
+Additionally, SMRT will increase the frequency of checks on the trip coils and 22kV breakers while replacement works are underway.

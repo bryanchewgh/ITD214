@@ -1,0 +1,52 @@
+Downtown Line to trial AI that can adjust train timings based on demand
+
+
+UPDATED NOV 03, 2022, 12:44 AM
+
+SINGAPORE - Public transport operator SBS Transit (SBST) will, in the next few months, trial a system on the Downtown Line (DTL) that automatically tweaks train schedules to cater to changes in passenger demand.
+
+Through the use of artificial intelligence (AI), trains can be deployed more efficiently and effectively based on factors such as average waiting times at train platforms and crowd levels on trains and at stations.
+
+This system will be the first of its kind to be implemented in the Asia-Pacific region, SBST said on Wednesday, and it will allow the operator to simulate different scenarios to predetermine train schedules.
+
+For instance, more trains could be scheduled to arrive at a station that is expected to fill up with commuters due to a sporting event or a concert.
+
+The trial will be conducted jointly with transport solutions company Siemens Mobility, which already supplies the automatic train control and operations control systems for the DTL.
+
+It is among a slew of collaborations being formalised on the sidelines of the Singapore International Transport Congress and Exhibition – held at Suntec Singapore Convention and Exhibition Centre from Wednesday to Friday – to help move the sector into the future.
+
+Mr Jeffrey Sim, chief executive of SBST’s rail business, said during a panel discussion that his firm’s trial with Siemens Mobility comes at a time when public transport ridership patterns have shifted due to the Covid-19 pandemic.
+
+
+“Today, when we set headway, whether it is for rail or for buses, it is really based on the day of the week and time of day... we have realised that patterns have changed... So the question then is how we can best utilise the assets that we have,” he said.
+
+Headway is the interval between buses or trains plying the same route.
+
+Mr Sim said regular train deployments would not be the best solution for a situation where there are multiple peak periods in the morning and evening, for example.
+
+“What we are trying to do is aimed at hot spots along the line. Where are the areas that may have high ridership, and at what points in time,” he added, noting that the AI-based system, if successful, will help SBST to lower costs, reduce wastage and be more environmentally sustainable.
+
+SBST will also conduct trials in the first quarter of 2023 with tech companies Vizzio and Huawei on technologies that will allow commuters to find their way virtually around MRT stations using a mobile app and let experts remotely view and offer guidance on technical faults through a pair of smart spectacles worn by on-site staff.
+
+The virtual station project with Vizzio will be trialled at Cashew MRT station.
+
+Public transport operator SMRT inked a deal to work with French firm Thales to set up a workshop in Bishan Depot that will allow repairs on critical electronic cards used for the signalling system on the North-South and East-West MRT lines to be done locally.
+
+Currently, these electronic cards are produced and repaired overseas in places such as Canada and France.
+
+
+The new repair facility here, which is expected to be set up in the first quarter of 2023, will cut turnaround time and costs, and allow SMRT technicians to be trained on how to diagnose and fix faulty cards.
+
+SMRT is also partnering Alstom to explore 3D printing of spare parts.
+
+Besides the two local transport operators, there were about 100 other exhibitors at Wednesday’s event. Among them was ST Engineering, which had on display a new touchless automatic fare collection system and a set of platform screen doors enhanced with an automated step that can bridge the gap between the platform edge and train floor to improve wheelchair access and commuter safety.
+
+In the coming months, the company also plans to conduct a wider trial in Singapore of a smart traffic control system that it says can reduce vehicle waiting times at traffic junctions by up to 20 per cent. This is based on an earlier trial that was conducted in western Singapore several years ago.
+
+The system uses AI, and can tap laser sensors and video analytics to detect both vehicles and pedestrians at road crossings, so that traffic signal timings can be optimised.
+
+For instance, the green man can be triggered without a push of the button and its timing can be extended if the system detects that a pedestrian is still crossing the road.
+
+Since 2018, the Land Transport Authority has been working on a next-generation, smart traffic light control system for Singapore.
+
+Trials are being conducted in Corporation Road and Boon Lay Way to gather more data.

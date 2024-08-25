@@ -1,0 +1,42 @@
+Electrical breaks to help isolate faults on two rail lines
+
+Published October 15, 2015
+Updated October 16, 2015
+
+SINGAPORE — To prevent a repeat of the unprecedented rail breakdown on July 7, electrical breaks will be installed by the end of next month, allowing the electrical system connecting the North-South (NS) and East-West (EW) lines to be de-linked, so that a power fault on one line will not trigger a failure on the other.
+
+The July 7 incident, which saw power trips knocking out the NS and EW lines simultaneously, happened because the two lines are electrically linked, said Transport Minister Khaw Boon Wan today (Oct 15). This electrical link allows trains to move between the two lines and is also “essential” because Bishan Depot is the only depot with heavy maintenance and overhaul capability serving the two lines, explained Mr Khaw, who is Coordinating Minister for Infrastructure.
+
+“A decision was made in the early 1980s to build only one such depot to minimise costs and land-take. This limitation would disappear when the Tuas West Extension is completed next year, when we will have a depot on the EWL with similar facilities, at the Tuas West Depot,” Mr Khaw wrote on his ministry’s blog today.
+
+“Other than for maintenance, allowing cross-overs gives operational flexibility. Unfortunately, this also means that a power fault on one line could affect the other,” he added, noting that the July 7 breakdown was a disaster because of its scale, which “no service recovery plan can adequately address”.
+
+SMRT was fined S$5.4 million for the disruption, which affected 413,000 commuters.
+
+By the end of next month, electrical breaks will be installed at Jurong East and Raffles Place interchange stations, where the NS and EW lines cross.
+
+The installation will involve cutting the running rail into two and rejoined using “bonded insulated rail joints”, which have an electrical insulating strip and a cable, said a spokesperson from the Land Transport Authority (LTA).
+
+“When a rail incident occurs and there is a need to de-link the two rail lines, SMRT staff can disconnect the cables and operate each line separately,” the spokesperson said. This will have to be done manually.
+
+Mr Khaw said the electrical breaks will not be activated under normal operations, so as to maintain the flexibility between the NS and EW lines.
+
+Commenting on the move, transport analyst Park Byung Joon said electrical breaks should have been installed when the tracks were first built. Noting the three-month gap between the July 7 disruption and today’s announcement, Dr Park, an adjunct associate professor at UniSIM, said it was possible the authorities needed to identify the cause of the breakdown before deciding on a way to solve it.
+
+National University of Singapore professor Lee Der Horng said he was glad that at least action was being taken.
+
+“I’m pretty sure they did not foresee this possibility of a breakdown of this large scale (or that) Singapore would have so many different MRT lines,” he said. “(Several) breakdowns all happening at the same time — that is going to be a thing of the past.”
+
+Dr Kenneth Sng, an associate professor from the Singapore Institute of Technology, sounded a note of caution though. “You have to make sure that the decoupled system can supply enough power properly in a reliable manner,” he said.
+
+The fact that Mr Khaw has made a flurry of changes since he took over the transport portfolio at the start of the month caught analysts’ eyes.
+
+Over the last two days, he overlooked two contingency planning exercises for the aviation and rail sector. Last week, he appointed PUB chairman Tan Gee Paw as his Advisor on Rail Transformation and tasked Senior Minister of Transport Ng Chee Meng to study third-party taxi booking applications.
+
+“He’s known for pushing for solutions, even at the Ministry of National Development. This is his working style,” said Dr Park.
+
+While the range of transportation issues that Mr Khaw has raised is “refreshing”, Dr Park felt the minister “cannot keep pointing out one issue every week (and) he should start prioritising things”.
+
+Dr Park added that Mr Khaw was more savvy with social media than his predecessor — retired politician Lui Tuck Yew — with the creation of a personal blog, and he was doing a “good job” updating the public on the happenings within his ministry.
+
+“I think he’s taking action and doing things,” said Dr Sng. “And when you have a dry run of such events, you have the opportunity to solve logistics issues and that would help in handling actual situations.”

@@ -1,0 +1,49 @@
+SMRT launches AI-based video system to improve commuter safety on Bukit Panjang LRT
+
+
+UPDATED JUL 06, 2023, 10:24 PM
+
+SINGAPORE – An artificial intelligence-powered video analytics system has been rolled out on the Bukit Panjang LRT (BPLRT) line, to watch out for people falling onto the train tracks at stations.
+
+Launched on Thursday at an event held at the BPLRT depot at Junction 10, the iSafe system is the latest effort by rail operator SMRT to improve passenger safety.
+
+The system analyses the video feed from the 104 cameras installed at station platforms across the 13 LRT stops round the clock. It will alert SMRT staff when it detects a person on the tracks or someone loitering near the platform edge.
+
+Senior Minister of State for Transport Amy Khor said at the launch that while track intrusions are rare, they can have serious consequences. She added that the transport community, including the Land Transport Authority and public transport operators, is always looking for ways to minimise such incidents.
+
+LRT station platforms have fixed barriers, with gaps for passengers to board and alight from trains. Dr Khor has said there is insufficient space on the platforms to install platform screen doors, which are in place at all above-ground MRT stations. Over the past decade, there have been two deaths and one injury arising from passengers falling onto LRT tracks.
+
+SMRT said iSafe has picked up one track intrusion – on Sunday – since the system started operations last Saturday. The operator did not give further details on the incident when asked.
+
+According to SMRT, iSafe is now 99.8 per cent accurate in detecting track intrusions.
+
+
+SMRT expects the accuracy rate to improve with use as the software learns from real-life data.
+
+This includes being able to identify whether an object that is on the edge of a station platform or on the track is human. Currently, the system watches out for features like the head and torso to identify people.
+
+Video information from the stations is relayed via fibre-optic cables at nearly real-time speed to the line’s operations control centre located at the Ten Mile Junction LRT Depot. When the system picks up a track intrusion, it will sound an alarm at the control centre. Staff will also get visual cues in the form of a pop-up window showing a screenshot of the intrusion with the person clearly marked out, along with a real-time CCTV feed of the situation on the ground.
+
+After SMRT staff confirm that there is an actual track intrusion, traction power will be shut down to stop trains running on the tracks.
+
+While it takes mere seconds to reinstate power to get the trains moving, SMRT said the time needed to address an intrusion depends on the situation, for instance whether a person on the track is injured and cannot be safely moved.
+
+
+Senior Minister of State for Transport Amy Khor (second left) with (from left) LTA public transport senior group director Yeo Teck Guan, SMRT chairman Seah Moon Ming and SMRT Group CEO Ngien Hoon Ping at the launch of Project iSafe on July 6, 2023. ST PHOTO: AZMI ATHNI
+The system can also detect incidences of people loitering at the “keep clear” zones on the station platforms. When this happens, announcements will be made to remind commuters to stay away and stand behind the yellow line.
+
+Previously, spotting track intrusion was done manually, with staff going through CCTV camera footage round the clock.
+
+SMRT said the iSafe system adds to its overall approach to improve passenger safety at stations.
+
+Other measures include signs to remind commuters to use the stop buttons during an emergency like a track intrusion, and having signs on the track to guide commuters with directions to return to the platform safely using the emergency exit.
+
+In a statement on Wednesday, SBS Transit spokesman Grace Wu said the operator has been trialling a similar system named VAnGuard at Town Centre station on the Sengkang LRT. The station was picked for its high crowd density to stress test the system.
+
+The video analytics system looks at surveillance footage covering both the tracks and platforms to watch out for people and foreign objects, alerting the operations control centre when immediate intervention is necessary.
+
+If a track intrusion is detected, staff at the operations control centre will stop the train immediately while investigation is under way. This, SBS said, reduces the risk of injury or service disruption.
+
+On the station platforms, the system is able to pick out wheelchairs and unattended objects, prompting staff to take the appropriate action, whether it is to assist passengers or take security action.
+
+SBS said the trial has been going on for about a year, after it was put on hold due to the pandemic. The operator expects to start installing the system at all 28 LRT stations on the Sengkang-Punggol LRT network from the second half of 2023.

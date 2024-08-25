@@ -1,0 +1,13 @@
+MRT: Use proven method of predicting system failures
+
+Published August 5, 2015
+Updated August 5, 2015
+
+
+With help from a foreign team of technical experts, we could find the root cause of the July 7 MRT breakdown and are correcting it (“Water leak led to July 7 rail outage”; July 30).
+
+Now, I would recommend a full-fledged Failure Mode and Effects Analysis (FMEA) of the MRT system, to be conducted by the foreign and local technical teams. This requires a facilitator who has strong FMEA process knowledge.
+
+It is a proven method of predicting weaknesses and failures of systems and products. We must increase manpower in preventive measures, and through this methodology, the focus areas should surface.
+
+A total, preventive maintenance plan can be worked out based on these inputs.

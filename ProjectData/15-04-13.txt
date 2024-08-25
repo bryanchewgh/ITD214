@@ -1,0 +1,25 @@
+East West Line exceeds System Service Availability standard
+
+15 April 2013
+
+
+Last week on Friday, train commuters experienced long delays in their daily commute due to signaling fault in the Pasir Ris and Tampines MRT stations. This incident brings the total delay hours of the month in April to 9.4 hours which has exceeded the System Service Availability (SSA) standard set out by LTA.
+
+tampinesbreakdown
+On Friday, SMRT reported via their twitter updates that the train delays was ranged around 5 mins due to signalling fault between the Tampines and Pasir Ris stations. And stated that other than the affected stations, train frequencies remained the same for the other stations.
+
+But a TOC reader commented from her own experience, “…we took the train from tanjong pagar at 510 pm, there was no announcement, train crawled to each station, stalling for a couple of mins at each station, door is opened n it was warm, a ride that i could reach pasir ris at 545 pm, was delayed till 630 pm.”
+
+With the delays at Tampines last evening, the Singapore Mass Rapid Transport (SMRT)’s East West Line (EWL) has exceeded their System Service Availability standard of 99.5%*
+
+smrt breakdown
+Under the licensing agreement between the Land Transport Authority (LTA) and the service operators, SMRT and SBS Transit are required to comply with the Operating Performance Standards (OPS), which stipulates a minimum level of train service availability in any month. This minimum level of service availability is known as the System Service Availability (SSA) standard.
+
+“If the SSA benchmark is 99.5%, it is equivalent to no more than a 6-minute delay for a typical revenue day and therefore, a maximum of 3 hours of delay each month (30 days * 6 minutes = 180 minutes)”. (source – http://failrailsg.appspot.com/)
+
+As of Monday afternoon, there have been no reports of this exceeding of the service standards in the papers.
+
+On a side note, LTA still has not followed up on the major incidents where two faults on the North-East Line (NEL) affected thousands of commuters since August 2012. http://failrailsg.appspot.com/fines.html
+
+[divide]
+* Ex-Minister for Transport, Mr Raymond Lim answered to a series of questions posed by then-MP of Holland Bukit Timah GRC who is also the current MP at the GRC, Mr Liang Eng Hwain in parliament on the bukit panjang LRT delays. In his reply to Mr Liang, Mr Raymond Lim stated the the bench mark of SSA to be 99.5%.

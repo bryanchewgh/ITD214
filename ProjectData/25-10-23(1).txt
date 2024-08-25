@@ -1,0 +1,67 @@
+Transporting 95 tonne transformers, narrow time window among challenges in renewing MRT systems
+
+UPDATED OCT 25, 2023, 09:58 PM
+
+SINGAPORE - Over the past five years, a team of up to 90 people spent five to seven days a week replacing the power supply system on Singapore’s oldest MRT lines.
+
+Every night, they had to work within a three-hour window to change out 1,300km of power cables – the equivalent distance of driving from Singapore to Malaysia four times – 250km of fibre optic cables, 206 power transformers, 172 switchboards and equipment in 171 substations across the North-South and East-West Lines (NSEWL).
+
+The time window – which begins after the end of passenger service – includes the time needed to transport the equipment from train depots to various locations along the lines, which are operated by SMRT.
+
+For example, a locomotive takes 30 minutes to transport new power transformers from Bishan Depot to City Hall station – a 10km journey.
+
+In an interview, rail engineers from the Land Transport Authority (LTA) outlined the challenges they faced in replacing the power supply and track circuit systems – two of six core systems on the NSEWL that have been renewed as part of a $2.6 billion project that started in 2012.
+
+The NSEWL, which started passenger service in 1987, collectively comprise 62 stations and 102km of rail tracks.
+
+An LTA spokesman said the renewal project – the most extensive overhaul ever undertaken of the MRT system – has helped the authority improve the design of upcoming MRT lines.
+
+
+For instance, spare substations will be built for the upcoming Jurong Region Line to make it easier to do similar power supply renewal works in future, the spokesman said.
+
+LTA, which owns rail assets and appoints operators to run the MRT lines, is responsible for replacing and upgrading the various systems.
+
+LTA deputy group director for rail (electrical and mechanical) Melvyn Thong said the various engineering teams use a time tracker to ensure they keep to the limited window available to complete the planned activities.
+
+If progress falls behind schedule, they have to cut short the works promptly to have enough time to leave the site safely without affecting passenger train service restarting.
+
+To help speed up access to the site, the engineers added a shorting switch to the third rail, which supplies power to the trains. This component can quickly “de-energise” the rail, which gives staff 30 minutes to an hour more to work on the power supply system, Mr Thong said.
+
+The upgrade also entailed increasing the power capacity to serve the network with higher performance substations, along with increasing the power supply from the grid.
+
+Such equipment is hefty. One of the heaviest is the intake power transformer, which weighs 95 tonnes. Six of such transformers, which are part of the set-up to supply power to move the trains, were replaced during the upgrade. Other types of transformers used weigh between 10 and 15 tonnes.
+
+A further 116 service transformers, which weigh between five and seven tonnes each, were replaced.
+
+MORE ON THIS TOPIC
+Smoother rides: 11-year upgrade to the North-South and East-West MRT lines
+$2.6b project to refresh Singapore’s oldest MRT lines almost done
+Mr Thong said that in addition to the limited time available to do the work, the team had to navigate tight space to perform the tasks.
+
+The preferred method when installing new substations is to put in a temporary substation to keep the MRT line operational. This would allow engineers to work on the new permanent set-up even during the day without interrupting daily operations.
+
+However, Mr Thong said that this was not always possible. At underground stations like Somerset on the North-South Line, there is not enough space to house a temporary substation.
+
+In such situations, the team had to break down the work into smaller portions while ensuring that there is sufficient capacity in the system to support normal train operations.
+
+Meanwhile, the renewal of the track circuit system will be completed by December.
+
+This system works with the signalling system, whose upgrading was completed in 2017 on the North-South Line and 2018 for the East-West Line, to pinpoint the location of the trains on the network.
+
+This speeds up the response time in the event of a breakdown. The system can help to detect broken rails that need attention, reducing the risk of service disruption.
+
+
+Checks being performed on the signalling equipment. PHOTO: LTA
+Mr Martin Ho, LTA’s deputy group director for rail (electrical and mechanical), said that it was a challenge to switch to the refreshed track circuit system without affecting daily operations.
+
+Over 1,100 track circuits were replaced during the renewal. The heaviest components of the track circuit system are the power distribution panels, which direct electrical energy to where it is needed and weigh between 400kg and 500kg each. On average, each station needs three such panels.
+
+Mr Saravanan Thiruneelekantan, senior project manager for signalling at LTA, said that plans made in advance with the operator SMRT to coordinate workers’ access to the tracks often had to be adjusted.
+
+For example, the team could not do track welding if it rained or when there was lightning. Weather conditions could change even while work was under way.
+
+There had been times when staff had to give up their allocated time slots, which hampered progress.
+
+Mr Thong said there was a “learning curve” for both the LTA and its contractors to respond to the situations at the different stations and sites.
+
+“The lines were built over different phases and time. So the design and layout also vary. Even though we prepare as much as is possible, on the ground, the access routes and space constraints may be different from the plans, so we have to learn to adapt.”

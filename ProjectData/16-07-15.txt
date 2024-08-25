@@ -1,0 +1,32 @@
+Insulation issues likely cause of breakdown, says SMRT
+
+
+Published July 16, 2015
+Updated July 17, 2015
+
+SINGAPORE — The breakdown of train services on the North-South and East-West lines (NSEWL) last Tuesday (July 7) was likely due to problems with the insulation of the third rail, operator SMRT said in a statement today.
+
+Issues with the insulation, which protects the power cables that supply electricity to the third rail, could have affected the supply of traction power.
+
+This, in turn, led to the tripping of the Touch Voltage Protection Relay safety feature along multiple stretches of both train lines, said SMRT.
+
+These relays, which are part of the original design of the NSEWL power network, are designed as a safety measure to protect commuters against the possibility of unacceptable touch voltage. This essentially means they are guarded against the chance of accidental electrocution by the railway’s power supply.
+
+The unprecedented simultaneous outage of two MRT lines that day lasted about three hours and affected an estimated 250,000 commuters.
+
+On Tuesday, SMRT Trains managing director Lee Ling Wee had, on a current affairs television programme, suggested that the insulation on the third rail was the prime suspect but stopped short of pinpointing it as the cause.
+
+Today, SMRT said its investigators have ruled out two possible causes — two track voltage balancing cables and a relay in the power substation — of the series of power trips on July 7, after intensive investigations and re-enactments of the incident in question.
+
+SMRT also said it has approached overseas operators including London Underground for views on its preliminary assessment of the incident. Separately, the Land Transport Authority (LTA) had earlier said a team of five experts from Sweden and Japan will be conducting an independent assessment of the NSEWL, the Republic’s two oldest lines.
+
+While it works on renewing trackside components, SMRT said it will work with the LTA to segment the network of cables that are supplying power to the NSEWL, where possible.
+
+“This design improvement adds resilience to the rail network, as a power fault on one part of the line will then be unlikely to disrupt travel on other parts or the other line, as was the case during the July 7 incident,” it said.
+
+Mr Lee had made the call to halt train services on both lines that day because the power trips were unresettable, and five trains were stuck because of the loss of power.
+
+SMRT reiterated today that the decision was made to avoid a situation where more trains would stall in tunnels or on viaducts, which would result in more commuters having to detrain on track and walk to the next station platform.
+
+SMRT said its investigations over the last nine days covered 200km of train tracks, all 67 power substations that support the NSEWL and the entire fleet of 115 trains that were used on the day of the incident, as well as 26 other trains at the depots.
+

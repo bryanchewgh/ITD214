@@ -1,0 +1,60 @@
+Component that malfunctioned during June 3 North-South Line disruption is new, says SMRT
+
+UPDATED JUN 18, 2024, 11:56 PM
+
+SINGAPORE – An electrical component that did not work as intended during a lightning strike on June 3, which led to train services being disrupted on the North-South MRT Line for more than two hours, was handed over to SMRT seven months ago.
+
+In a statement to The Straits Times on June 18, the rail operator said the surge arrestor in question, which is meant to protect outdoor equipment from power surges like those from lightning strikes, is new.
+
+The new part was among those commissioned as part of a decade-long, $2.6 billion renewal programme for the ageing North-South and East-West lines (NSEWL) conducted by the Land Transport Authority (LTA).
+
+SMRT said the current maintenance schedule for the new surge arrestors, as prescribed by the original equipment manufacturer (OEM), Kraus Elektrotechnik, is once every two years. The first maintenance window is scheduled for 2025.
+
+“SMRT diligently adheres to the maintenance schedule prescribed by the OEM,” said SMRT Trains president Lam Sheau Kai.
+
+“We are collaborating with the LTA to review and enhance this maintenance schedule, as well as the resilience of the lightning protection system,” he added.
+
+SMRT earlier said that the lightning strike on June 3 damaged numerous components within a power control box near Kranji station, especially the disconnecting switch – a device that ensures energy is not running through a circuit so it is safe to conduct emergency stoppages, repairs, maintenance or inspections.
+
+
+The surge arrestors are a component of this disconnecting switch, which has been sent for further investigations by LTA, SMRT, Kraus Elektrotechnik and another OEM, Meiden.
+
+In response to queries, LTA said it is working with the OEM to determine the cause of the surge arrestor failure and investigations into the June 3 disruption are ongoing.
+
+Earlier on June 15, LTA said that the trackside power control box near Kranji station was damaged at 5.46pm. This led to a power trip that disrupted train services between Choa Chu Kang and Woodlands stations during evening peak hours.
+
+Inclement weather and lightning risks prolonged service recovery efforts, as SMRT engineers had to physically access the power control box on the MRT viaduct to isolate it before power could be restored to the rail at 7.50pm.
+
+Train service resumed at 8.10pm.
+
+LTA said on June 15 that the condition of the surge arrestor in the affected power control box could have deteriorated over time, which it suggested was the reason the component did not operate as intended.
+
+The authority noted that the other equipment in the vicinity of the affected power control box was not damaged during the same lightning incident.
+
+The disruption left many commuters frustrated due to confusion on the ground and long waits and snaking queues for buses, as huge crowds formed at affected stations and bus stops.
+
+
+Photos on social media show crowds of commuters at the affected stations and bus stops on June 3. PHOTO: CONSTANTINE YAN/FACEBOOK
+SMRT has since pledged to improve its crowd control measures at MRT stations and boarding points for bridging buses. It said it is also exploring “innovative ways” to keep commuters informed during future disruptions.
+
+The project to renew and upgrade six core systems on the NSEWL, including the power supply system, started in 2012.
+
+Most of the upgrades were completed by end-2023, including replacing wooden sleepers that hold the running rail in place with concrete ones, changing the third rail that supplies traction power to trains and upgrading the signalling system.
+
+Work to upgrade the NSEWL’s power supply system started in 2018 and was completed in September 2023.
+
+The new system was touted as being more robust, with sensors that can monitor the condition of components like power cables in real time, so pre-emptive action can be taken.
+
+
+SMRT workers ensuring that all systems on a section of the North-South Line were restored after a lightning strike caused a power trip that disrupted train services on June 3. PHOTO: SMRT/FACEBOOK
+As part of this renewal, voltage protection systems for the 27 stations on the North-South Line and the 35 stations on the East-West Line were replaced with new voltage limiting devices that LTA said could isolate power faults and prevent line-wide disruptions.
+
+It was a glitchy power system that caused Singapore’s biggest rail breakdown in 2015, which brought the NSEWL to a standstill during the evening rush hour of July 7 that year.
+
+Malfunctioning electrical components were also the cause of a massive three-line rail breakdown on Oct 14, 2020, that affected 123,000 commuters and left more than 6,700 passengers stuck on stranded trains for up to three hours.
+
+The 2020 disruption was traced to a cut in the insulation layer of a power cable and a rusted trip coil along the EWL’s Tuas West Extension.
+
+In the aftermath, systems supplier Alstom replaced all 113 trip coils and all 150km of power cables along the 7.5km extension. The French firm bore the full costs of these replacement works.
+
+Additional reporting by Christine Tan

@@ -1,0 +1,53 @@
+Railway disruption management challenges
+and possible solution directions
+
+
+
+Accepted: 27 February 2017 / Published online: 17 March 2017
+ The Author(s) 2017. This article is an open access publication
+Abstract This paper investigates the challenges of railway traffic controllers in
+dealing with big disruptions and the kind of support tools that could help to improve
+their task in terms of performance, lead time and workload. The disruption handling
+process can be partitioned into three phases resembling a bathtub. For each phase
+the essential decision making process has been identified. Currently, the support to
+rail traffic controllers in case of severe disruptions is limited to predefined contingency
+plans that are not always feasible or applicable. In the literature, models and
+algorithms have been identified that could be used in the different parts of the three
+phases of the disruption handling process. This paper investigates the processes of
+disruption management in practice and the challenges that traffic controllers are
+facing during a disruption. The literature of models applicable to disruption management
+is reviewed and classified based on the three phases of the traffic state
+during disruptions. Finally, a rescheduling optimization model is applied to a case of
+complete blockage on a corridor of the Dutch railway network. The case study
+shows how a microscopic model could support the traffic controllers by providing
+real-time solutions for different phases of a disruption.
+
+
+
+
+
+
+
+In this paper the processes of disruption management and its relevant challenges
+were investigated, and the limitations of the current static contingency plans were
+discussed. The disruption models and algorithms in the literature were reviewed and
+classified based on the three phases of disruption. The literature study revealed that
+rerouting and rescheduling services during the transition phases are not sufficiently
+investigated. It was also concluded that limited microscopic models have been
+developed to deal with disrupted services. In the search for microscopic approaches,
+some relevant rescheduling models for small delays were reviewed. To illustrate the
+applicability of such methods for the three phases of disruption, a microscopic
+rescheduling model has been applied on a Dutch railway corridor. Since the
+microscopic rescheduling model was developed for traffic management of smaller
+delays and does not include the option of cancelling and short-turning train services,
+some assumptions were considered before applying the model to a disruption case.
+Two cases of disruptions were defined with different start times of a full blockage. It
+is concluded that depending on the disruption period, some services might need to
+be cancelled and different choices of short-turnings can be achieved. The results
+illustrated the support provided by a microscopic rescheduling model to traffic
+controllers for each phase of a disruption. Currently there is no reference in the
+literature and no support for the traffic controllers to decide which service is better
+to be cancelled and which choice of short-turnings results in the least total delay.
+The extension of a microscopic rescheduling model with cancellation and shortturning
+decisions will be a next research direction. Moreover, it is also interesting to
+investigate the possibility of short-turning the services in other stations.

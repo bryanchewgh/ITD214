@@ -1,0 +1,34 @@
+Take holistic approach to improve rail reliability
+
+Published March 16, 2015
+Updated March 16, 2015
+
+The recent spate of train breakdowns has created dissatisfaction among transport users. (“Rail reliability improvement has ‘some way to go’”; March 12)
+
+I acknowledge the various initiatives such as better communication and free bus services during the breakdowns, improving MRT traffic flow via the pre-peak travel scheme and improving user experience with free Wi-Fi in train stations.
+
+But perhaps more can be done in the maintenance, repair and overhaul (MRO) operations and for the transport provider to tackle the problem holistically and proactively, rather than reactively as perceived now.
+
+MRO is extremely important in industries such as aviation, rail and heavy production machinery. With a 20- to 25-year lifespan for some of the equipment, MRO costs would typically be more than the purchase cost over the course of usage.
+
+The Land Transport Authority and SMRT Corporation must raise the bar in terms of the objectives set for these operations, and requirements for train availability maximisation and maintenance cost minimisation.
+
+READ ALSO
+Rail maintenance should take place during off-peak daytime hours
+To reduce the number of scheduled and unscheduled visits and the time and costs these require, SMRT must study its procedures, for example, to anticipate more accurately the actual operating conditions of its equipment.
+
+It must better optimise the level and location of spare parts inventories, manage repairable part operations more effectively, monitor the operations log more thoroughly and harmonise configuration monitoring and modifications to the trains, tracks, signalling equipment, et cetera.
+
+The LTA and SMRT should perhaps incorporate and leverage our Smart Nation initiative, using big data to solve these MRO issues. The train system infrastructure could be designed and upgraded with sensors, and the consolidated data collected for analytics.
+
+This would help in better operational and decision-making systems and in predicting the incidence of failure of certain parts, for SMRT to proactively replace or repair the part before it fails and causes a service disruption.
+
+It would also help optimise MRO operations by combining data relating to configurations, mean time between failures, inspections and the maintenance, review and repair operations with logistics, purchasing, subcontractor contracts and parts and inventory data from equipment vendors.
+
+Another approach to increasing train availability is for our future rail lines such as the Downtown and Thomson-East Coast lines to have redundant tracks as part of the implementation, for emergency use.
+
+Lastly, take the aeronautics industry: Optimising MRO operations requires knowing everything about an aeroplane’s history, activities, performance and parts continuously, down to the smallest detail, from its manufacture to its certification and serial number.
+
+Without such information, it would be impossible to understand or manage anything in this field. This is important in the airline industry, as lives are at stake if any plane breaks down.
+
+A comprehensive, holistic approach focusing on maximising MRO operations would be a key factor in improving our rail reliability and train availability.

@@ -1,0 +1,30 @@
+GovTech data scientists' explanation of Circle Line investigation 'a fascinating account': PM Lee
+
+UPDATED DEC 02, 2016, 04:38 PM
+
+SINGAPORE - The raw data was voluminous: lists of which trains in the Circle Line were stalling, where and at what times.
+
+But plotting the information as a chart revealed a pattern. Trains seemed to be breaking down one after another, almost as though malfunctioning was contagious.
+
+Data scientists from the Government Technology Agency of Singapore (GovTech), which was set up on Oct 1, have released a summary of the process that led them to identify the "rogue train" behind extensive train disruptions on the Circle Line earlier this year.
+
+"When a train got hit by interference, another train behind moving in the same direction got hit soon after," data scientist Daniel Sim wrote in a post published on GovTech's blog on Thursday (Dec 1) afternoon.
+
+"What we'd established was that there seemed to be a pattern over time and location: Incidents were happening one after another, in the opposite direction of the previous incident. It seemed almost like there was a 'trail of destruction'."
+
+Mr Sim, who holds a computer science degree from the University of Cambridge and another from ETH Zurich, wrote that the team of data scientists hit upon a hypothesis: "Could the cause of the interference be a train - in the opposite track?"
+
+MORE ON THIS TOPIC
+Meet the defence engineers who cracked the mysterious Circle Line case
+This brainwave, when applied to the data set, pointed to the existence of one rogue train - which the data scientists identified by traipsing down to Kim Chuan Depot to review video footage of train movements.
+
+
+Prime Minister Lee Hsien Loong and Defence Minister Ng Eng Hen have publicly commended the scientists who got to the bottom of the problem.
+
+Mr Lee, in a Facebook post on Thursday, singled out the GovTech data scientists' explanation of their research as "a fascinating account, demonstrating close teamwork, sharp analysis, and a never-say-die attitude".
+
+"Proud of the team's good work, and a big thank you to all the officers who worked so hard to crack the puzzle!" said Mr Lee, who has a bachelor's degree in mathematics and a diploma in computer science from the University of Cambridge.
+
+He has described himself as deriving pleasure from computer programming and previously made headlines around the world for sharing the code to a Sudoku-solving algorithm that he wrote.
+
+The disruptions were investigated by a multi-agency team that included engineers from the Land Transport Authority and train operator SMRT; a DSO National Laboratories team led by engineer Chian Teck Keong; Defence Science and Technology Agency engineers Mui Whye Kee, Cheng Heng Ngom and Benedict Koh; and GovTech scientists Lee Shangqian, Daniel Sim and Clarence Ng.

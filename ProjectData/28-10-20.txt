@@ -1,0 +1,45 @@
+Cable fault caused 3 hours 36 mins MRT disruption that affected 123,000 commuters on Oct. 14, 2020
+The train disruption on the CCL was caused by a human error.
+
+
+October 28, 2020, 05:30 PM
+
+The Land Transport Authority (LTA) has released a report on the train service disruption on the evening of Oct. 14, 2020, that saw train services halted on the North-South and East-West Lines (NSEWL) and Circle Line (CCL).
+
+123,000 commuters affected by MRT service disruption
+Train services from Woodlands to Jurong East stations and Queenstown to Gul Circle stations on the NSEWL were disrupted from 6:58pm to 10:34pm, affecting around 110,000 commuters and had about 6,500 commuters stalled on NSEWL trains.
+
+Train services from HarbourFront to Serangoon stations on the CCL were disrupted from 7:34pm to 8:34pm, affecting roughly 13,000 commuters.
+
+A total of 275 were stalled on the CCL trains during the period.
+
+In total, around 123,000 commuters were affected by the MRT service disruption.
+
+Cable fault along part of NSEWL
+Investigations by LTA found that the incident initially started with a 22-kilovolt power cable fault in the electrical zone between Tuas Link and Tuas West Road stations on the Tuas West Extension (TWE).
+
+While the cable fault at TWE would not have caused a disruption if the circuit breaker had kicked in and isolated the affected electrical zone, the circuit breaker at Tuas West Road station, where the section of faulty cables was, also malfunctioned.
+
+As a result, the disruption was not isolated within the TWE.
+
+SMRT staff error resulted in CCL power trip
+An attempt was made to draw power from the Buona Vista Intake (BVI) substation, which also supplies power to the CCL.
+
+However, due to a human error, power was drawn before ensuring that the cable fault at Tuas West Road station was isolated within its electric zone.
+
+According to SMRT Group CEO Neo Kian Hong, the power staff had misread the graphics display and thought that the fault had been isolated, and proceeded to draw power from the BVI.
+
+As a result, the safety mechanism protecting the CCL's power system was tripped, affecting train services along parts of the CCL.
+
+Neo said the power staff and his supervisor have been suspended from their duties, and will undergo retraining and recertification before they can resume their duties.
+
+All power cables and circuit breakers to be replaced
+In light of the train disruption, Neo apologised for the inconvenience caused.
+
+Alstom, LTA's partner and supplier for train parts, repairs and infrastructure, also apologised for the disruption, pledging to fully replace all the 22-kilovolt power cables.
+
+LTA, SMRT, and Alstom are aiming to complete the replacement of the trip coils by end 2020.
+
+LTA said that weekend early closures from November 2020 will be implemented to facilitate the replacement of the cables.
+
+"We take this service disruption very seriously, and we are sorry for the inconvenience caused. The incident is a stark reminder for us that the work to keep our MRT network running smoothly is a never-ending journey," LTA chief executive Ng Lang said.

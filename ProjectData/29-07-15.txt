@@ -1,0 +1,31 @@
+Faulty third-rail insulator major factor in July 7 train breakdown
+Leaks in tunnel also contributed to power trips, say LTA and SMRT
+
+
+Published Wed, Jul 29, 2015 · 09:50 PM
+
+THE weak electrical resistance of the third-rail insulator has been identified as the root cause of the massive train breakdown on July 7.
+
+The evening disruption of the North-South and East-West Lines (NSEWL) which affected 250,000 commuters was caused by the intermittent tripping of the rail power system at multiple locations.
+
+The Land Transport Authority (LTA) and SMRT Corp have now determined that the tripping was caused by the lower electrical resistance pathway of a third-rail insulator. The third rail supplies electrical power to the trains.
+
+When functioning properly, the insulators of the third rail insulate the electrified rail from the ground, and ensure that the electricity from the third rail flows only to the trains via the trains' current collector shoes.
+
+But if an insulator has weak resistance, it lets electricity flow through it to the ground, resulting in a higher-than-normal voltage difference between the running rail and the ground. The running rail is the surface on which the train wheels run and through which the electricity "returns" to the source to complete the circuit.
+
+The higher-than-normal voltage difference, aggravated by the movement of the trains, triggered the system's 64P safety mechanism at multiple locations in the network.
+
+The activation of the safety mechanism is what tripped the power system. This Touch Voltage Protection Relay is a safety feature on the NSEWL network and is used in rail systems all over the world.
+
+LTA, SMRT and five overseas experts carried out comprehensive system-wide checks across more than 200 km of train track and components such as the third rail, power cables and the signalling system to identify the root cause of the disruption. They also checked all 141 trains and analysed train logs from the day of the incident.
+
+Their conclusion: a confluence of factors triggered the incident.
+
+In the tunnel between Tanjong Pagar and Raffles Place, water was found dripping onto the third-rail cover near an insulator. Tests on a sample on the cover and on water collected from the tunnel leak found mineral deposits with a high chloride content. The presence of chloride on the insulator, coupled with a wet environment, would have significantly reduced the effectiveness of the insulator.
+
+SMRT has combed the NSEWL tunnels to ensure there are no other leaks. To minimise the possibility of a similar recurrence, it has started replacing third-rail insulators, starting with those showing signs of electrical resistance weakness. The remaining insulators will be changed under a planned renewal of the third-rail system, to be completed by the first quarter of 2017.
+
+To better monitor the condition of the insulators, SMRT will install data loggers at all 47 traction power substations on the NSEWL in the next two months; the 64P setting will also be raised from the current 136V to 200V to make the network less susceptible to power trips. The 200V setting is in line with international standards, and those in the newer Circle and Downtown Lines.
+
+Commuter safety will not be compromised, said SMRT.

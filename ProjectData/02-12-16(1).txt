@@ -1,0 +1,76 @@
+The Power Of Data Solved The Mystery Of SMRT’s Circle Line Breakdowns, Here’s How
+
+December 2, 2016
+
+Do you recall the mysterious case of the recurring Circle Line (CCL) faults?
+
+First occurring in August, September saw the return of the mysterious train failures, during which the trains would slow down and sometimes even stall in between stations, resulting in disgruntled commuters having to switch to the free bus services deployed.
+
+The issue escalated to the point that the 3 main telcos had to shut down mobile services so that LTA could conduct test after test.
+
+And then on November 11, the LTA announced that the root of the problem had been identified. It had neither been telco interference nor paranormal activity, but rather faulty signalling hardware stemming from a train that had gone ‘rogue’. The train has since been out of service.
+
+We’ve heard about how the situation had been resolved from LTA’s point of view.
+
+Now let us hear it from the perspective of the engineers. Be forewarned, things are about to get geeky.
+
+Engineers, The New Heroes Of CCL Commuters
+Engineers have long been the unsung heroes of jobs, but in recent years as society becomes more technology-drive, they are also increasingly brought to the media forefront.
+
+In a medium post on data.gov.sg, the author Daniel Sim was part of the engineering team comprising of Lee Shangqian, Clarence Ng and himself were called in to investigate the disruptions to the Circle Line system.
+
+There’s quite a number of graphs and charts on the post, so if you find it TLDR, we’ve synthesised the main points for you.
+
+How Data Saved SMRT (And Us)
+Armed with a SMRT-compiled dataset of details of the breakdown such as the date and times, as well as the ID of the train affected, the first step the team had to take was to clean up the data given, for which the team utilised Jupyter Notebook, a tool that Python code users will find familiar.
+
+Nerd speak, but university students who have survived their final graduation projects will likely know what I’m talking about.
+
+After which, the important aspects were distilled from the entire data pool, and standardised for organisation.
+
+From the information that Daniel Sim and his team got, however, they were not able to draw any conclusions, only that the problems occurred across the entire day, peaking at the usual rush hour periods. From what they saw, although the interferences occurred along the entire CCL, they were slightly higher over in the West, and they were not isolated to just a few, but 60 trains.
+
+The information that they had obviously weren’t taking them anywhere, so the team decided to kick it up a notch by implementing The Marey Chart.
+
+Made famous by Edward Tufte, the chart has also been put into use on the subway system in Boston, USA.
+
+
+For a perfectly-functioning train, the graph would look something like this, where a train would take slightly over an hour to run from HarbourFront to Dhoby Ghaut.
+
+
+Instead, this was what their graph looked like when visualised in a scatterplot, and once again, it did not provide the team with any useful insights.
+
+
+But when the team re-visualised the chart by adding train direction per incident, they hit a revelation.
+
+Whenever a certain train was affected by interference, the subsequent one running in the same direction would suffer from the same fate.
+
+The team aptly labeled this a “trail of destruction”.
+
+
+Juxtaposing their charts against the Marey Chart, they started to suspect that there was a rogue train on the loose. That gave them a new hypothesis – the “Rogue Train” – to work on, and the team immediately pounced on it.
+
+
+
+The fact that 73% of all incidents could be explained by their hypothesis bolstered their confidence that they were on the right track.
+
+What ensued afterwards were tireless rounds of number crunching, which included an after hours visit to the Kim Chuan Depot and staring at CCTV footage of trains till 3am.
+
+Fortunately, their effort paid off and the trio had a prime suspect, train ID PV46.
+
+Once put into action during non-peak hours, PV46 was indeed causing communication breakdown between trains, as well as activating their emergency brakes.
+
+
+PV46 has since been removed from service.
+
+Why We Love These Guys Even More
+In the blogpost, Daniel Sim reflected that their original aim was to “find patterns that may be of interest to the cross-agency investigation team, which included many officers at LTA, SMRT and DSTA.”
+
+However, it would not be a stretch to claim that this trio were the ones instrumental in rectifying the entire problem. In the Straits Times article, it appeared as if emphasis was placed almost entirely on engineers from the Defence Science and Technology Agency (DSTA).
+
+
+Often the small players are the ones who are play the largest roles, perhaps it’s time to pay our due respects to the underdogs who support us in our daily lives, even till the wee hours of 3am.
+
+Thankfully, the persevering determination of Lee, Ng and Sim have not gone completely unnoticed.
+
+Hats off to these 3 engineers, and boy, are we relieved to have people like you on our team here in Singapore!

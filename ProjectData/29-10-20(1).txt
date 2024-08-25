@@ -1,0 +1,64 @@
+3-line MRT fault: A timeline of what happened on Oct 14
+
+
+UPDATED OCT 29, 2020, 07:16 AM
+FacebookTelegram
+SINGAPORE - A section of power cable that burnt through and a faulty circuit breaker along the Tuas West Extension were the primary cause of a massive disruption on Oct 14 that affected three MRT lines.
+
+The Land Transport Authority (LTA) on Wednesday (Oct 28) released a report of its findings on the three-hour, 36-minute incident, which affected 123,000 commuters.
+
+Of these, 6,500 commuters were on 12 stalled trains along the North-South and East-West Lines while 275 were on three stalled Circle Line (CCL) trains.
+
+Here is a timeline of events on Oct 14:
+
+6.58pm: Concurrent faults along the Tuas West Extension cause a power outage. The burnt section of 22 kilovolt (kV) cables between Tuas Link station and Tuas West Road station had triggered a power fault, which activated circuit breakers nearby. But one failed to trip and isolate the power fault as designed due to a melted trip coil.
+
+
+The burnt section of cable between Tuas Link and Tuas West Road stations that led to the disruption on Oct 14, 2020. PHOTO: LTA
+The circuit breaker failure caused a secondary protection system to trip, cutting off power supply from the Tuas Depot substation. This affected a larger zone of stations along the North-South and East-West Lines (NSEWL).
+
+Train service was shut down between Woodlands and Jurong East stations on the North-South Line and between Queenstown and Gul Circle stations on the East-West Line.
+
+
+Catch up on the news that everyone’s talking about
+Enter your e-mail
+ Sign up
+By signing up, I accept SPH Media's Terms & Conditions and Privacy Policy as amended from time to time.
+
+
+Yes, I would also like to receive SPH Media Group's SPH Media Limited, its related corporations and affiliates as well as their agents and authorised service providers. marketing and promotions.
+The outage caused 12 trains to stall on the tracks. It also affected in-train lighting and air-conditioning. The backup battery on affected trains kicked in to provide emergency lighting and ventilation.
+
+Operator SMRT subsequently decided to draw power from the Buona Vista substation, which supplies power to the CCL.
+
+An SMRT staff member and supervisor misread equipment at the substation and wrongly assumed the fault in Tuas had been isolated.
+
+7.34pm: Failure to isolate the fault before drawing power led to a voltage dip at the Buona Vista substation, causing a power trip and a second outage that affects service between HarbourFront and Serangoon stations on the CCL. Three trains stall as a result.
+
+
+A faulty trip coil that failed to trip caused a secondary protection system to trip, cutting power to a stretch of stations along the North-South and East-West lines. PHOTO: LTA
+7.38pm: SMRT decides to detrain passengers on the stalled trains as it could not restore power supply quickly. As a safety measure, electrical protection devices are installed to guard against accidental turning on of traction power. SMRT staff walk along the tracks to reach the stalled trains and help commuters.
+
+7.53pm: Detrainment of NSEWL passengers begins.
+
+7.59pm: Detrainment of CCL passengers begins.
+
+8pm: Power supply is restored for CCL, but SMRT does not restore traction power along sectors where detrainment is taking place for safety reasons.
+
+MORE ON THIS TOPIC
+3-line MRT fault: Alstom to replace 150km of power cables on Tuas West Extension
+2 SMRT staff suspended after human error worsened Oct 14 MRT disruption
+8.17pm: All stranded CCL passengers reach the nearest stations.
+
+8.42pm: Commuters from 11 stalled trains on NSEWL reach the nearest stations.
+
+8.43pm: Train service along CCL progressively resumes.
+
+8.44pm: Detrainment of the last train near Bukit Batok station is temporarily halted due to rain and lightning risk, with 78 commuters still on board.
+
+9.43pm: The 78 commuters alight at Bukit Batok station.
+
+10.34pm: Train services are progressively restored on the NSEWL.
+
+
+

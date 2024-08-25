@@ -1,0 +1,92 @@
+3-line MRT breakdown in October caused by cut in power cable insulation, rusted component
+
+
+UPDATED MAR 18, 2021, 08:53 PM
+FacebookTelegram
+SINGAPORE - A cut in the insulation layer of a power cable along a rail extension and a rusted component in a circuit breaker led to the massive three-line rail breakdown last year, which affected about 123,000 commuters.
+
+This was the conclusion of a months-long forensic investigation into the equipment faults on the Tuas West Extension (TWE) that led to disruptions on the North-South, East-West and Circle lines, Transport Minister Ong Ye Kung said on Wednesday (March 17), as he warned against cutting corners when it comes to rail line maintenance.
+
+Mr Ong was speaking at the ground-breaking ceremony of a new integrated train testing centre (ITTC), which will put new trains and rail systems through their paces without the risk of disrupting service on operational lines.
+
+He said investigations by main contractor Alstom and the Land Transport Authority found that a cut in the insulation layer of a cable, which was likely due to a manufacturing defect or mishandling during installation, had led to a short circuit.
+
+The trip coils in the circuit breaker that should have contained the initial fault failed because a plunger, which moves to enable the circuit breaker to kick in, had rusted.
+
+The rust, which likely formed due to an inadequate protective coating in the batch of trip coils used on the TWE, had obstructed the plunger, causing the circuit breaker to malfunction. This resulted in a disruption lasting more than three hours, leaving more than 6,700 commuters stranded on trains.
+
+"What I described is a very typical story of any major train disruption," Mr Ong said.
+
+
+Catch up on the news that everyone’s talking about
+Enter your e-mail
+ Sign up
+By signing up, I accept SPH Media's Terms & Conditions and Privacy Policy as amended from time to time.
+
+
+Yes, I would also like to receive SPH Media Group's SPH Media Limited, its related corporations and affiliates as well as their agents and authorised service providers. marketing and promotions.
+"When you dig deep enough, you will trace the cause to a few tiny glitches happening at the same time... But this is enough to paralyse a large segment of our train lines."
+
+He added that a lot of work and money have gone into rectifying the defects identified after the Oct 14 disruption.
+
+Alstom replaced all 113 trip coils - a circuit breaker component - along the TWE last year and is currently replacing all 150km of power cables along the 7.5km extension with higher-specification ones. It is bearing the costs of these works.
+
+These works have led to early closures and late openings on the East-West MRT Line, and full Sunday closures at some stations over the next two months.
+
+Mr Ong said there are plans to replace the trip coils along the TWE again with ones made of stainless steel by the third quarter of next year.
+
+MORE ON THIS TOPIC
+Stronger signal needed to prevent recurring MRT faults
+S'pore begins construction on $640m three-track train testing centre
+The current trip coils are made of carbon steel with nickel coating.
+
+The LTA has adjusted the settings on the space heaters to reduce the humidity level within circuit breakers to lower the chances of rust forming. Pending the replacement of the trip coils, operator SMRT has also stepped up the frequency of maintenance to once every three months.
+
+It had stepped up maintenance of the trip coils to once every six months in the wake of the disruption from once a year.
+
+
+Police officers speaking to commuters at Jurong East station, during the train breakdown on Oct 14, 2020. PHOTO: ST FILE
+
+Crowds waiting at the bus stop outside Queenstown MRT station after a power fault disrupted train services, on Oct 14, 2020. PHOTO: ST FILE
+While hard work and spending more on maintenance have resulted in the MRT network clocking over one million mean kilometres between failures today, Mr Ong said that the occasional train disruption is inevitable.
+
+He said: "When that happens, we will need to get to the bottom of the matter, identify the causes, rectify and learn from the experience."
+
+He added: "Let's be very clear, cutting corners on maintenance to save cost is not being productive. It is not contributing toward financial sustainability. It is in fact very unproductive, as the remedial action is always disruptive and expensive, and will cost us many times over in social, economic and financial costs."
+
+MORE ON THIS TOPIC
+2 SMRT staff suspended after human error worsened Oct 14 MRT disruption
+Three-line MRT breakdown raises serious, troubling questions
+While maintenance expenditure per place km has doubled over the last decade and has reached a "healthy and reasonable level", Mr Ong said there is no need to "gold plate" maintenance.
+
+"Gold plate means you do a lot of things, spend a lot of money, but don't deliver the outcomes. (It is) just for show. And that is not wise.
+
+"Instead, we need to understand how small, simultaneous glitches tend to be the causes of big disruptions... So let's spend where we need to spend, and where it matters, to ensure safety and reliability. Train our workers well, equip them with the skills to spot and rectify problems, to feel safe to whistle blow where necessary, to proactively improve how maintenance work is done."
+
+He also noted the importance of maintaining the profile of today's rail maintenance regime, where about seven in 10 work hours are spent preventively, and maintaining a culture of professionalism, pride and teamwork.
+
+"If something goes wrong... we must know we always bear collective responsibility, and it is only by working together, addressing each other's blind spots and shortcomings that we deliver a better system."
+
+
+MORE ON THIS TOPIC
+3-line MRT fault: A timeline of what happened on Oct 14
+3 MRT lines hit by power fault: Other major train breakdowns in S'pore
+The ITTC, the first of its kind in South-east Asia, is a further step in strengthening the rail system here, Mr Ong said.
+
+The centre, which allows for concurrent testing of trains and systems from different MRT lines, is located on a 50ha site at the former Raffles Country Club in Tuas, which had been acquired for the abandoned Kuala Lumpur-Singapore high-speed rail project.
+
+First announced in 2019, a $639.5 million tender was awarded last year to GS Engineering, a South Korean construction company, to design and build the flagship centre.
+
+
+The ITTC allows for concurrent testing of trains and systems from different MRT lines. GRAPHIC: LTA
+The ITTC is expected to be completed in two phases.
+
+The first includes a high-speed test track and is expected to be done by late-2022, in time to receive new Circle Line Stage 6 trains that will come in early 2023.
+
+The centre will be fully operational by end-2024.
+
+Said Mr Ong: "In time to come, it will be a physical infrastructure and institution that upholds our maintenance regime."
+
+
+
+

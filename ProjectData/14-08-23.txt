@@ -1,0 +1,43 @@
+North-South, East-West MRT lines to get AI-powered system to help improve reliability by end-2024
+
+UPDATED AUG 14, 2023, 10:42 PM
+
+SINGAPORE - An artificial intelligence-based system that is able to identify issues that disrupt rail operations, such as train doors not closing properly, will be introduced on the North-South and East-West MRT lines by the end of 2024.
+
+These are the next two MRT lines to use the system – called Overwatch – after it debuted in October 2020 on the Circle Line (CCL).
+
+The system was officially launched at Kim Chuan Depot on Monday.
+
+Rail operator SMRT said that since the system’s implementation on the CCL, there has been a 30 per cent drop in delays of up to five minutes.
+
+Developed by SMRT’s subsidiary Strides Engineering, Overwatch applies artificial intelligence (AI) to interpret the data feed from an existing overview display system, which shows the real-time data visualisation of the operations on the CCL.
+
+The system tracks information such as the exact location of the trains on the network, how long a train has stopped, as well as the drive mode that the train is in.
+
+Senior Minister of State for Transport Amy Khor, guest of honour at the launch, lauded SMRT’s efforts to work with the Land Transport Authority to improve operational effectiveness and reliability.
+
+
+She noted that the AI system will alert SMRT staff if it detects any anomalies, so they can take pre-emptive action to address the faults.
+
+“By harnessing the power of artificial intelligence to monitor and analyse continuous video data of train activities, Overwatch can forecast potential points of congestion and suggest re-routing options to help operators alleviate the situation,” she said.
+
+The system will emit an audible alert to notify the operations control centre when a train is switched out of the fully automated mode – its default setting – to being operated by a driver. This prompts the duty controller to pay attention to the train.
+
+A ticking timer appears above a train in the system’s visualisation of the network when it has stopped for an abnormally long period. The colour of the timer changes as the delays are prolonged, to signal urgency. In a disruption where multiple trains are stalled, this visual cue helps the controller prioritise the recovery effort among the affected trains.
+
+Being Web-based, Overwatch is accessible not only by the operations control and maintenance engineering centre, but also by staff who may not be physically at the control centre but need to have an overview of the situation on the network.
+
+According to SMRT, this set-up allows different parties to access real-time information about the network, and thus allows the operations control centre to focus on resolving situations instead of responding to requests for updates.
+
+When Overwatch is implemented across the other MRT lines operated by SMRT, the system will give SMRT staff a real-time overview of the condition of all trains in operation across multiple lines.
+
+MORE ON THIS TOPIC
+Near 3-hour disruption on Thomson-East Coast Line caused by loss of power supply: SMRT
+MRT reliability remains high in first quarter despite more frequent delays
+In June, the system won an international award at the UITP Global Public Transport Summit in Barcelona. The awards recognise the most ambitious and innovative projects from around the world.
+
+SMRT has applied for a patent for the system, which runs on its own network and is independent of rail operations as a safeguard against cyberthreats.
+
+The operator said it has received queries from other rail operators about possibly using Overwatch on their networks.
+
+In the next five years, SMRT expects to fully implement the system on the Thomson-East Coast Line as well.

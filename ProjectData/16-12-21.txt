@@ -1,0 +1,214 @@
+10 years on, some lessons are still not learnt
+Posted by A Meow CatDecember 16, 2021
+https://sgtransportcritic.wordpress.com/2021/12/16/dec-2011-breakdowns-2021/
+
+The horrific double train breakdowns of 2011 occurred on the 15th and 17th of December 2011, both of which were equal in magnitude and no more worthy of commemorating, thus I took the day in between, the 16th, to publish this post in commemoration of double trouble that affected hundreds of thousands who just wanted to return home in mid-December 2011. And of course, a sober reminder that we have yet to learn some lessons from then, lessons that could have saved the rail system multiple times in the decade that followed had we learnt from them.
+
+Ten years ago, our rail system failed the nation twice across three days, bringing the country to a halt, and threatening the economy as well.
+
+A small but not insignificant misalignment in the current collector shoes of a bunch of trains escalated a tiny connection-point fault into a massive hours-on-end outage of train services throughout the week, caused by dislodged third rails.
+
+
+
+Of course, tiny faults like these didn’t translate into muted responses from commuters who were trying to get home that night. And the effect was far from minimal.
+
+If Only Singaporeans Stopped to Think: MRT breakdown chaos 2011
+How systemic are SMRT's cultural issues? | Torque
+Singapore Democratic Party | News | Heng thinking of 10m population; SDP  says no, offers alternative immigration plan
+The response to patch everything up was very unsatisfactory, of course. Don’t know why the news didn’t run anything about how overcrowded those “bridging buses” were on those fateful nights, even though they could be considered worse than the overcrowding scenario on service 190.
+
+
+And obviously customer satisfaction dropped from the 90-or-so-percent to half of what it was overnight. I’m pretty sure the mob would be ready to stone to death anyone who said “this is fine” and the like.
+
+
+And, to our horror, that nightmare in December 2011 wouldn’t be the last of the train breakdowns. History will later go on to keep repeating itself again and again for the next decade, and those who didn’t get the chance to purchase personal transport have thus been subject to the mercy of the rail gods in the coming years. *sighs*
+
+
+That last paragraph is worth mulling over. It’s indeed quite a rarity that one massive train breakdown will lead to multiple such events recurring over and over again over the next decade, and the truth elsewhere is that once such events occur, they get rectified immediately and almost never happens again, definitely not going on to become a staple in the news for a full decade after! Why then, are we left with a rail system that continuously brings us trouble every few months, and at best once every year?
+
+Advertisements
+
+REPORT THIS AD
+My short answer to that is that we haven’t learnt our lessons from the tremendous disaster of December 2011.
+
+
+The less short answer: The answer cannot be found if we continue to do as we did for every major breakdown before, because this isn’t merely a rail-related problem we’re looking at, it’s an overall planning, operations, and maintenance mindset we’re on to. (Former SMRT CEO Desmond Kuek was on to the last one near the end of his tenure, a pity his successor denied it)
+
+If we want to make the memory of train faults a distant memory that doesn’t have to be worried about every day we go to work, the relevant parties need to look back ten years ago, and at long last learn some painful lessons that will relieve passengers of the mania that they have been experiencing viscerally for a decade. Here goes.
+
+Think about capacity
+This one goes to the planners at LTA. One of the severe flaws about our public transport system that December 2011 revealed, and practically any major breakdown after that did, was the acute capacity shortage present that would have gone unnoticed otherwise. Perhaps during “peacetime” capacity shortages in our public transport gets masked as “overcrowding”, since it’s just a case of people getting left behind and having to wait for the next train, you know, typical busy transit systems.
+
+New 7% public transport fare hike is the highest fare increase since 1998 -  The Independent Singapore News
+Everything goes fine and well until of course, kaboom, a train line goes poof because of a train fault! And then, panic rushing for pathetic bridging buses that are the literal definition of “afterthought”: scrambled (yes, scrambled) haphazardly from the few spare buses available in depots that won’t arrive in time to catch the massive crowds. Of course, not to mention the poor capacity of these buses themselves, especially if we consider the newer models which all have a trend of ever decreasing capacities. (B5LH and the Linkker are both really poorly done in terms of interior layout, with lower capacity than their OC500LE and K230UB counterparts, not to mention the joke 3-doors that were bought for a higher price at lower return)
+
+
+Crowd at Kranji on 2nd June 2017 during a signalling fault
+Crowd Level at Woodlands Temp Int during MRT Disruption on 14 Oct 2020
+Here, there’s also in part the argument which I have been repeatedly making since Oct 14 last year: overcrowding does cause train breakdowns, and in many cases exacerbates the fallout from one when they do happen! The “capacity” I refer to here isn’t just in the narrow sense of how many people it can transport, aka the immediate physical capacity of the vehicles used themselves, it also refers to all the infrastructure-level capacity that is needed to support higher-capacity operations! The signalling system – can it handle more trains being run at the same time (We’ve cleared this part in the years after 2011, at least)? The electrical system – can it supply power to more trains at the same time without overloading and burning itself out? (Answer: No it seems, given how this is still causing trouble as late as 2020) The platforms and other station infrastructure — do they require modifications to be able to handle higher throughput? And of course not to mention: are the trains big enough to be able to meet the travel demands of passengers reasonably? These are all questions that have only been partially answered and acted upon in the years following 2011, and continued delay in addressing capacity issues, especially with rampantly-increasing population the government is pushing for, rain or shine, will only further worsen reliability problems of the rail system. Not to mention, of course, that these factors in capacity are intertwined, and the true capacity of the rail system lies with the shortest plank of the barrel! (Another planning example: How the Marina/Bishan LRT decimated the Circle Line’s capacity) And of course, perhaps the same can be said about public transport, or just land transport, in general.
+
+Advertisement
+
+I think, if the LTA (and the rail operators) had given more thought and consideration to the capacity of the infrastructure as a whole, we wouldn’t be seeing all the problems related to overcapacity that has been the core cause of most train breakdowns in the following decade after 2011. And definitely there won’t be absurd moments such as calling lines serviced by trains carrying less than 1,000 each “mass rapid transit” (Sheesh, it’s called “LRT” elsewhere), and having to panic buy “tougher cables” when they burn out and cause pandemonium.
+
+Where’s your Plan B?
+(Uh, by the way, as repeated screw-ups going all the way back to 2006 (!) demonstrate, “bridging buses” isn’t one of them.)
+
+Back in 2011, the rail network looked like… this, but with the Circle Line extended to its present day extent, minus the complicating Marina Bay branch.
+
+Introducing the Explore Singapore MRT map | the Explore blog
+As you can see, for the vast majority of residents who don’t live in the CBD, they only have one way back home, given the overpoweringly radial nature of the MRT network at the time. Run the numbers however you like, but you’ll probably realise that the carrying capacity of the overall transport system for 5.17 million (Singapore’s 2011 population) is highly insufficient.
+
+Perhaps because rail disruptions prior to 2011 was such a rarity, not much thought was given to what would happen should the rail network shut down in its almost entirety, hence hardly any thought was given to actually coming up with backup plans, or “Plan Bs”. When those third rails stopped functioning as they were intended to in mid-December 2011, the lack of a functioning plan B in place meant absolute chaos breaking out, as those driving the bridging buses got lost trying to drive from station to station, and as the operators attempted to haphazardly scramble those buses in the first place! Maybe in the heat of the moment we can forgive SMRT’s ineptitude in responding to a sudden crisis on the ground in 2011, and further pardons made on the grounds that they never had to deal with such a case before. Yet in the years to come the same exact scenarios would continue to play out again and again and again in breakdown after breakdown. The same pandemonium, the same scared look on commuters’ faces, the same mass panic, and the same overcrowded bridging buses that do too little too late to remedy the situation. When half the rail network went down in October 2020, we almost had a near-perfect replay of December 2011, albeit with newer trains affected, newer buses on bridging routes, “fixed” bridging bus routes, Task Force 50 deployments (basically, a portion of the bus fleet set aside specifically for contingency purposes) and new bus operators running said bridging services. The surface changed, the substance didn’t by much.
+
+
+It should be obvious by now that asking all to fully rely on the rail network, and the rail network alone for longer journeys, is a rather large folly. I pointed out in the spiel against (ir-)rationalisation that the chances of train disruptions actually increase when a hub-and-spoke approach is taken to public transport by making the MRT the only viable option for trips beyond the confines of one’s town, because let’s be frank here, unless you are talking about 16-car long metro trains running at 60-second headways (it’s physically impossible with our current infrastructure), no matter how much extra capacity you want to allocate, you won’t be able to find the room if you only put in place a Plan A!
+
+Advertisements
+
+REPORT THIS AD
+There are many opportunities for us to create alternative travel options to the MRT that can assist in (1) alleviating the overcrowding situation that is indirectly causing train disruptions, (2) increasing the capacity of the overall transport network, and (3) extend the reach of the rapid transit system beyond the limits of the rail network without having to extend the rails themselves at high cost! Such is the benefit of road-based rapid transit, a form of rapid transit with lower carrying capacity but is workable, scalable (in copious amounts), and available in shorter periods of time. Another benefit of RBRT that I missed in the post itself: it acts as a useful partner in being able to soak up high passenger demand better than conventional buses with capacities of 80 or 120 can. Aaand, they are available for this purpose during peacetime anyway, which means we’re actually having a feasible Plan B in place to ferry tens (if not hundreds) of thousands home should shit hit the fan. It’s the same philosophy as that behind “devising alternative rail lines” (what the Downtown and Thomson East-Coast lines were envisaged as), but in greater quantity. Because remember, a Plan B isn’t a Plan B if it’s unavailable when you need it the most.
+
+SBS7777Y on Service 7
+Not to mention that the trunk buses, the mainstay of bus services here (not bridging services!), are also a pool of potential transport capacity we should be tapping on when disruptions do occur. A good move made in the following years after 2011 was to waive bus fares even for nearby trunk routes should things go south underground. If I would add, instead of deploying bridging bus services to duplicate disabled sections of MRT lines and further fragment service on trunk routes, we should explore instead to use the TF50 fleets and manpower to further bolster trunk bus services in the event of a disruption, adding capacity to the existing bus network (which is rather comprehensive for most parts of the island) that can serve both affected passengers and their otherwise regular market! Bridging buses should only be deployed as a very last resort if a particular location along a rail line is extremely unreachable by the existing trunk bus network (and I don’t think this scenario actually appears anywhere on the rail network save the Tuas West Extension). Doesn’t make sense to spread your bus operating resources even thinner by introducing more contingency routes when trains break down when individual carrying capacities of every single bus route should be boosted to be able to soak up as much excess demand as possible!
+
+A strong and robust Plan B must always be in place even if we hypothetically reach a day where our trains no longer break down at all (because of a far more advanced and rigorous maintenance regimen, or something of that sort), because this is the safety net that will catch us should our parachutes fail to open, which can happen at any time. Not if, but when, as the SGSecure posters like to say.
+
+If it ain’t broke, fix it anyway
+A shocking revelation made in the aftermath of the December 2011 mayhem was that the trackside equipment (rails, third rails (that went haywire and sent everything crashing down), and the like) was last checked more than a decade prior to 2011, and you might have to have to go back to the 20th century to find evidence of actual maintenance work carried out! A further bombshell dropped on the public: SMRT’s sole maintenance vehicle back then was in a terribly shabby condition, unfit for use, which might have explained the decade-long hiatus in maintenance checks. (And it seemed to be the case for far longer: the Clementi crash of 1993 was also caused by the maintenance vehicle leaking oil for a 6km stretch between Buona Vista and Ulu Pandan Depot.)
+
+
+Well… originally this was not going to make it into the list of “things we still haven’t learnt for a decade”, since in the years that followed LTA forced SMRT Trains to cough up a better maintenance plan that involved more regular checks and periodic trackwork from time to time, which did mean breakdowns as severe as December 2011 didn’t come back to haunt us until we came to implement CBTC, but that series of train fault mania was caused by testing out buggy signalling software that glitches all the damn time.
+
+Advertisement
+
+Until 2017, when we made another shocking discovery, which depending on how you look at it may or may not be more severe the ramifications than what we found in 2011.
+
+MRT tunnel flooding was "entirely preventable" - LTA reveals as  investigations conclude - The Independent Singapore News
+This looks a little creepy, to be honest. Freaked me out the first time I saw it.
+Bishan MRT Tunnel Flood (October 2017) | Land Transport Guru
+In 2017, the stormwater drainage system at the Bishan tunnel portal failed, resulted in the tunnel being flooded during the evening peak. From the infographic above, there was conclusive evidence that the float switches were faulty… which meant… some questionable maintenance records going on right there. What happened next one can guess: the tank overflowed, draining into the train tunnels, flooding it all, and then shutting off the power supply and causing trains to grind to a halt that fateful evening.
+
+Later investigations would reveal that SMRT staff faked the maintenance documents, meaning even though everything appeared to be done on paper, not even a cursory inspection of the pumps was done in quite a while preceding the tunnel flooding incident itself! It’s easy to guess why: like the lack of inspections in general before 2011, there was a sense of complacency that certain things would never happen just because it has never happened before. I suppose the Bishan maintenance team felt the pumps would never fail simply because there hasn’t been a pump failure before in 30 years of MRT history up to that point. After all, don’t fix it if not broke, am I right?
+
+
+Further incidents later on prove otherwise: cables that were left as they were decades ago even as additional trains were added to fulfil demand, first-gen Westinghouse platform screen doors (below) staying put despite increasing incidents of door failures starting the early 2010s while you replace the faregates every half a decade… don’t you think something is amiss here? I myself can recall incidents involving these specific PSDs not closing properly/going haywire/fill in the blank resulting in trains getting delayed as the Train Captains continuously open and close the doors in futile attempts to get things right, and that was 2012 when I hadn’t yet entered primary school! And of course, keeping the same components in the same configuration on the trains until they prove insufficient for reliable service, and then go around blaming China for “subpar quality” (nonsense, you can say that in 2015, you can’t say that in 2021 going over to 2022, just look at how their work quality improved by leaps and bounds), like certain people always want to say when the train involved is a KSF.
+
+
+Ripped from SGTrains website, and it’s ironic you put a picture of the specific set of PSDs that downed the NSL not once but twice in a month to accompany the claim “The pneumatically operated system has an outstanding reliability record achieving 99.99% average availability.” Ironic.
+At least however, we bothered to replace the macro-infrastructure such as sleepers (I think a total of 100,000 replaced, at least) and the signalling system (can’t say the same about the power supply, which still causes trouble every half year after it got replaced). That’s a good start, but like I said at the start of the year, the seemingly minor parts also matter, and if you’re just going to sit back and use them until they break in the middle of serving hundreds of thousands of passengers, dumb and retarded are words too light to describe what you did.
+
+
+As the Chinese say, 吃老本 (doing the same damn things, which can also mean not changing or upgrading) is not exactly a good idea. It’s uncompetitive, boring, people get tired of it, and so on. But in the case of transit systems, the drawbacks of staying put is more than just your trains looking, feeling, and sounding like relics from the 19th century (practically every North American metro system except Vancouver). It’s a case of your infrastructure being unable to keep up with the conditions of the present day, and thus failing to work as they were originally intended to, simply because they were never designed to face the challenges of today!
+
+
+This isn’t just a problem of enforcing more regular and stringent maintenance on the rail system (which seems to be improving now, SMRT even publishes maintenance schedules on their website), because overall we’re looking at a mindset (a growth mindset, if I may add), of consistent upgrade being made to the rail system, instead of sudden disruptive introductions spaced extremely widely apart (like, every 15 to 20 years as is the case nowadays) that just add fuel to the fire of an unreliable track record.
+
+Here’s a comparative and insightful look at how much of the rest of the world does their upgrading. Note the dates of below articles. For comparison, Shanghai Metro’s Initial Section opened in 1993.
+
+As you can see, rapid transit systems elsewhere do not wait for everything to fall apart before something is finally done to remedy the situation — instead, they proactively take steps to upgrade the system to meet future challenges and demands!
+
+Witness too, the different approach Chinese cities take towards metro train refurbishment too. The linked article may only talk about Kunming (I suddenly thought of them because 2022 will be the first main overhaul the K Metro trains see), but it’s pretty much SOP across all PRC rapid transit systems.
+
+Please hover your attention over this one paragraph in the above-linked article:
+
+
+Translation: Train upkeep consists of four parts. The first is daily inspection, carried out by 4 teams of staff who carry out daily inspection of trains across four shifts. The second is regular maintenance, which is similar to the “4S” (have no idea what this is) preservation of trains. Aside from monthly standard checks, deep-level repair on major components such as air-con, transmission, and gearboxes will be carried out every month. The third is emergency repair, where repair workers must arrive at the scene to carry out emergency work. The fourth is refurbishment, overhauling the chassis every 5 years, overhauling the entire train every 10 years. The train is taken apart and disassembled into individual components, with faulty and expired components replaced, and upgraded, next generation components switched into these trains, future-proofing them.
+
+Advertisement
+
+In China, it is mandatory for rapid transit rolling stock to have a propulsion overhaul every five years, and total overhaul every decade or so, by national law. Every decade, trains are sent to a maintenance facility (or overhaul facility), where they are taken apart completely (Emphasis: completely) and stripped to bare bones, before they are modified, infused with the technological developments of the past decade, and built back into a entirely brand new train that may look the same on the outside, but gives a completely different ride experience, with much more reliable systems that are capable of coping the transportation demands for the next decade and beyond!
+
+图：广州地铁一号线21辆德国进口列车开始大修-搜狐新闻
+This isn’t the furthest they have gone: some refurbishments stripped away even the wall and roof panels, leaving just the bare supports!
+
+Wuhan refurbishes their first-gen trains, ripping literally everything out (Look inside!) and starting all over again. This was in 2017, and for perspective, Wuhan Metro first opened in 2004.
+In extreme cases, you really can’t tell that the “new” trains on the line are the exact same trains from the past, because of how thorough the replacement and upgrading was!
+
+Here’s the SFM02 on Beijing’s Batong Line, prior to refurbishment.
+
+Beijing Subway SFM02 - Wikidata
+Here is the exact same model after undergoing Chinese-style train refurbishment in 2019:
+
+File:TQ414 entering Guoyuan (20210331171232).jpg
+The only thing that suggests the latter was once the former is the common “TQ4xx” numbering, and for most who don’t give a damn, they might as well be completely new trains.
+
+Advertisement
+
+Whereas in Singapore, refurbishment, which only happens every fifteen to twenty years, tends to be mostly… I’m sorry to say, superficial. It’s usually a case of changing exterior liveries, pasting on new logos and stickers (especially in the case of bus refurbishment, going off a tangent here), and swapping outdated and expired components for… brand-new outdated components. Prime example: When the C151s were refurbished between 2006 and 2009, the chopper motor from Mitsubishi was retained while all sorts of aesthetic changes were made, including painting them black, removing 12 seats from each car (shortening 6 benches from 9 to 7 seats each per cabin), and changing the interior colours. As for swapping out the components that actually matter to train operation for something more advanced, more 21st-century? Nah. In the case of our current C751A refurbishment, the only noticeable difference was to swap out the static line map above the doors for a CJ151-style PIDS, and replace the SBST side logos for that of LTA. What a joke we made of the word “refurbishment”. An opportunity for us to transform trains of last century into those of the next forgone for superficial aesthetic changes that really don’t contribute to improving reliability.
+
+
+Going off a tangent here, but here’s a comparison between the now-retiring Volvo B9TL CDGE buses prior to and after their “refurbishment”. Look yourself in the mirror with a straight face, and tell me what changed, except for painting SBST’s corporate livery over with the standard BCM Lush Green?
+
+Before:
+
+SBS Transit Volvo B9TL CDGE | SBS7348C | nighteye | Flickr
+Volvo B9TL (CDGE) – Original Interior – Lower deck (Front to Rear) | Land  Transport Guru
+After:
+
+My Pet Peeve #22: I Used to Hate the Volvo B9TL (CDGE) So Much | by Howard  | My Pet Peeve | Medium
+Volvo B9TL (CDGE) – Refurbished Lower deck (Front to Rear) | Land Transport  Guru
+And the result is obvious: these phony repaintings (let’s call them what they actually are) did quack to extend their lifespan, with some of these repainted units being retired even before their 17-year lifespan was up, due to “poor performance“. What a joke, spending so much money on paint and then wasting it by scrapping it early.
+
+Advertisement
+
+The Scania K230UB (Euro IV) refurbishment was a much more extreme example: all they did was to give a new coat of paint in the original livery, clean the original panels, and slap on a new “keep clear of doors” sticker! It was such a great opportunity to introduce novel concepts to buses (since the KUB’s inception in 2007) such as foldable seats, solar panels and the like. And at least swap out the bone-chilling Euro IV engine for something more environmentally friendly, perhaps a Euro VI engine (I’m pretty sure Scania sells those to go with their newer Citywide) or even hybrid/electric drivetrains! If we stretch our imagination we could perhaps consider adding a third door to the rear, or introduce buses with doors on both sides, a la Zhengzhou. So many possible ideas to introduce on existing buses, yet LTA chose to 吃老本 and stay put, pfft.
+
+SBST] SBS8322U on service 81 - Refurbished Scania KUB kickdown. - YouTube
+What’s the damn difference between this and its unrefurbished counterpart?
+If it ain’t broke, fix it anyway. Make it a better version of what it was before. Scratch that, make it the best it can ever become, and never let its humble past limit what you can do with what you have! Make the old as good as the new, and we can start by doing overhauls, true overhauls that bring tangible benefit to rail reliability more frequently. Frequency is power, as they say. Instead of only rushing to “refurbish” everything when your trains almost hit the end of their 25-year lifespans, make it a point to do what the Chinese do: tear up your trains every once in a while, look through the inventory, and yeet it into the future in advance. We will thank you tremendously for that.
+
+(This entire section summarised: It’s the Kaizen method you guys have already been doing for a few years, just applied to your hardware as well.)
+
+Stop counting your damn wallet.
+Will the public transport industry please please please pleeease, put down your collective wallets and toss out that cheque book, and actually spend some time with your trains?
+
+That fateful night, this was reported to have happened:
+
+mrbrown.com: The Great SMRT Cockup of 2011
+In short, SMRT Taxis (You read that right, the taxi arm of the train company that screwed up big time that night) labelling the worst train disruption in our MRT history as an “income opportunity” for its taxi drivers to exploit. It reveals more than just the sheer lack of empathy the higher-ups had for the large majority who have to ride public transport with subpar quality (compared to say, China or Western Europe); it reveals the profit-first mindset that was imbued in LTA, SMRT, and practically the entire industry around that point in time.
+
+Advertisement
+
+Also revealed that fateful night was the link between this:
+
+SMRT MAKAN SESSION! | ESTHERXIE.COM
+and this:
+
+15 Social Media Posts That Perfectly Sum Up SG's Worst MRT Breakdown In  History
+And many weren’t grateful to this woman for prioritising the first over the second:
+
+New Nation | Tag Archive | Saw Phaik Hwa
+Ok, I’ll cut it short: Former SMRT CEO/President (whatever those funny titles were at that time) Saw Phaik Hwa allegedly cut the maintenance budget in order to fund the expansion of SMRT Xchanges, those shopping mini-wonderlands in MRT stations, which undeniably fetched quite a hefty sum of revenue for SMRT in the years leading up to the double trouble in December 2011, and for many years after that. In short, explaining why maintenance was in such a bad shape by the time things went horrendously south.
+
+
+Remember these posters?
+To be frank I don’t mind if SMRT being able to manage thriving mini-malls on their station premises, because it’s kinda becoming SOP right now globally, and even LTA is trying to continue this tradition with their “JR East” concept malls in TEL stations. And I don’t mind if they’re there to fatten up someone’s wallets, as long as it does not come at the cost of the core (public) business. The problem comes when this profit drive becomes obsessive and unhealthy, causing public transport (highlighted because that’s your core business, it’s literally in your corporate name!) operations to take a hit to further buff up those profit margins, and those ramifications will bite back very hard someday if you decide, of all places, to ransack the maintenance budget. (Ransacking the operations budget in general is harmful, but nowhere as harmful as cutting the maintenance one, for reasons that breakdown after breakdown have illustrated for a decade now)
+
+
+To be honest, if one is in an industry providing services for the public good, such as public transport (healthcare, education and utilities also come under this, among others), to be money-minded is to betray the core mission of your profession. The bills should be the last thing on the minds of those in the industry, because ensuring that millions get to their destinations in time and quickly enough without having to sit through sh*tshows every other day is far more important than fetching millions in your bank account from all your side income streams. In the years that came after, we’ve been raising transport fares consistently by a few cents every year (fares are about under a dollar or so higher than they were in 2011 today), yet both buses and trains continue to be plagued by frequency and reliability (and safety in some cases) problems. Yes, there’s inflation, but where’s the basis for raising fares if even the lowest baseline cannot be met? What bar are we setting for ourselves?
+
+While in other “things we haven’t learnt since 2011” pointers I raised above, I can concede and say we did make some form of improvement since then in one way or another (hence appending a “fully” after “things we haven’t learnt”), this is the one thing that the double trouble on the night of 15 and 17 December 2011 spat us in the face, yet still refuse to take heed of for a full decade after. It subsided of course, as SMRT stopped ransacking the maintenance budget for their executive paychecks, but this has not gone away one iota in the public transport industry in general.
+
+Starting 2016, new players to the public (emphasis again) bus industry began making SMRT Trains’ mistake before 2011. One of them is particularly well-known for doing practically everything in the book but not running their buses more frequently. (And in any case, they had the highest breakdown and crash rates in 2021) Selling plushies, doing giveaways, hosting roadshows and the like, and (edit: even using themselves as a 2021 countdown event venue), everything except improving their bus services, to the extent that some can even say the SBST/SMRT days pre-Bulim/Mandai were better.
+
+To all players in the rail industry, for the sake of rail reliability, please delete all those dollar signs from your mind. They do no good, and drive one to instead commit gross mismanagement mistakes that may one day erupt into mayhem that was last seen, December 2021. Your goal is to provide fast, efficient, and reliable train services for everyone for years ahead. Not rake copious amounts of gold from the pockets of ordinary Singaporean citizens like you and I alike. If you still treasure your riches more than the needs of Singaporeans, I suggest going to the private and luxury sector, not staying in a PUBLIC industry which shouldn’t be turning a profit (in most cases, exceptions do exist)!
+
+Admit that there’s a long way to go
+This is the hardest part for most, but it’s arguably the first step one has to take in order to be able to get into active rectification of past faults.
+
+One thing I’ve noticed in train disruption after disruption for the past decade was how every time something went wrong, everyone involved (operators, ministers, chief executives and all) get into a frenzy of apologising (recent addition since the Desmond Kuek era: and taking responsibility for screwing up). Apologise, apologise, apologise, say we’re very sorry for causing great distress and inconvenience to all, promise this won’t ever happen again and we will look into it. Basically, a lot of short term stuff being said, very little about the long term.
+
+
+We all do know that regarding rail reliability, there is a very long way for us to go. Great that we crossed 1 million MKBF in 2019 (When will we hit 2 million?), although we mostly used brute-force methods of pulling faulty trains out of service quickly. To truly be able to run hiccup-free train service and consign stalled trains to a distant haunting of the past, the first step we must take is to admit, that we do have a long way to go in attaining the same quality as our peers regionally. (We can always start with Asia-Pacific, the best in the world) Once this is done, we have then laid the ground for larger-scale improvements we can make in order to truly walk out of the shadow of the December 2011 screw-up.
+
+An admission, that we can learn far more from the December 2011 breakdown that started the chaos of the past decade, and our shortcomings in certain areas after a decade still, can and will set us on the right track. To look beyond just the trains and immediate infrastructure itself, because they do not operate in isolation after all.
+
+Let us hope that there will eventually come a day (hopefully within the decade even as population rises) when we can ride the MRT again with same confidence as our predecessors in the 1990s could, without having to ever worry if a train breakdown is going to happen the moment you step foot in the station all the time. To achieve so and truly put us on the same level with Taipei, Hong Kong, and Shanghai, a more holistic and far-sighted view of rail reliability has to be taken. I’ve summarised the entire post above into a few pointers below:
+
+Consider the carrying capacity of every part in the system, because after all the true capacity lies with the length of the shortest plank.
+Have in place a more robust Plan B (in the form of alternative travel options that are available all the time, and most importantly, when they’re needed the most.)
+Don’t be content and complacent! Always reinvent the rail network to take on challenges of the future, and do so regularly!
+Put. Down. That. Wallet. And go look at your trains more and think about how to improve them.
+There’s a long way to go, so much to do. Admit it, and then we can have the discussions on how best to bring back the days when the MRT operated smooth as silk.
+

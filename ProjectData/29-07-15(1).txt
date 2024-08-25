@@ -1,0 +1,54 @@
+Cause of mass train disruption identified, could have been prevented
+
+
+29 July 2015
+
+
+SMRT Pte Ltd and the Land Transport Authority (LTA) has identified the massive train disruption that occurred last month on 7 July to be caused by a water leak into weakened electrical systems.
+
+The disruption crippled both the North South Lines and the East West Lines during rush hour and left a quarter of a million people stranded.
+
+In a joint media briefing by SMRT and LTA at the LTA headquarters on Wednesday, 29 July, it was also noted that the breakdown could have been prevented, due to a mistake in classifying the severity of the fault.
+
+Some scenes from the disruption on July 7.
+Some scenes from the disruption on 7 July.
+Weak Electrical Resistance
+
+“The disruption was caused by intermittent tripping of the rail power system at multiple locations, due to the lower electrical resistance pathway at a third rail insulator.
+
+However, the weak resistance of an insulator can allow electricity to flow through the insulator to the ground, resulting in a higher than normal voltage difference between the running rail (the surface on which the train wheels run and through which the electricity returns to the source to complete the circuit) and the ground.”
+
+It started with a water leak, at a spot between Tanjong Pagar and Raffles Place MRT. The water, after tests on residue samples, was revealed to have had high levels of chloride, which then contaminated the surface of the insulator and thereby decreased its resistance levels.
+
+“The presence of chloride on the insulator, coupled with a wet environment, would have significantly reduced the effectiveness of the insulator.”
+
+Electrical current was thus able to bypass the insulator and creep down the third rail support bracket down to earth, causing ground voltage levels to spike above a certain limit.
+
+The higher than normal voltage difference between the ground and running rail triggered a protective safety relay system, which then tripped the system as a safety mechanism.
+
+
+ 
+
+In explaining why the issue affected the entire network of both lines, the LTA said simulation checks in Braddell station showed that when earth voltage rises at one particular location, the voltage also rises in other locations, causing trips across the network.
+
+Leak spotted early, classified as non-urgent
+
+A patrol officer on the Saturday before the incident had spotted the leak and classified it as “non-urgent” at the time, said Mr Lee Ling Wee, MD for SMRT Trains. The downpour one night before the breakdown is also believed to be an aggravating factor.
+
+These were the conclusions of a team of independent experts from Sweden’s Parsons Brinckerhoff and Meidensha Corporation of Japan, who were recruited by LTA to look into the power supply infrastructure and railway trackside installations. The process involved checks on 200km of tracks, 141 trains and logs from the day of the incident.
+
+Rectifying the problem
+
+To address the issue, it has started replacing all third rail insulators, a process which should be completed by the first quarter of 2017. To monitor the condition of the insulators, data loggers will be installed at all 47 traction power substations on the NSEWL within the next two months.
+
+desmond_kuek_0
+
+“We have reviewed all existing work instructions and we’re satisfied that they have been complied with,” said SMRT CEO Desmond Kuek. “Arising from the Jul 7 incident, we will be taking very firm steps to review and improve all work instructions to tighten the most vulnerable spots in the system.”
+
+SMRT will also raise the setting of its protective relay system, known as the 64P, to a higher level so as to make it less susceptible to power trips. This raise is also in line with international standards.
+
+At the end of the briefing, Mr Kuek also gave credit to the commuters of SMRT.
+
+We thank our commuters for their patience and understanding over the incident. We continue to adopt a zero-defect attitude, learning from each and every incident that takes place and we’re committed to ensuring a high level of safety and reliability in our system.”
+
+As to whether SMRT would be slapped with a  fine for it’s role in the disruptions, LTA CEO Mr Chew Men Long said the LTA is still investigating and will give more details at a later date.

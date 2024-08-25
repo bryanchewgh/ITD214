@@ -1,0 +1,67 @@
+Harnessing Big Data to build a smarter public transport system
+
+
+Published June 7, 2017
+Updated June 7, 2017
+
+Singaporeans depend mostly on buses and the MRT for their daily commutes. The challenge for the operators is in balancing supply against demand.
+
+The number of riders on public transport has grown tremendously, but the completion of new MRT lines is still some years in the future.
+
+Singaporeans are demanding better service, fewer breakdowns and ways to cope with the overcrowding during peak periods. Service providers are struggling to optimise services, fleets and manpower as well as manage contingencies.
+
+At the Committee of Supply Debate, Second Minister for Transport Ng Chee Meng said that Big Data and analytics will be used to improve train reliability.
+
+Ultimately, the objective is to integrate private transport data as well, leading to aggregated, comprehensive and real-time data on road traffic.
+
+A project at the Massachusetts Institute of Technology’s Department of Urban Studies & Planning shows the way.
+
+Several papers published under this project show the need for every element of the public transport eco-system to be interconnected, to provide critical real-time data to manage anomalies.
+
+Predictive maintenance involves gathering targeted data for analysis to help anticipate and mitigate potential breakdowns and disruptions before they occur.
+
+Data feeds on the areas and timings of regular traffic congestion can allow for the planning of more efficient bus routes as well as managing peak-period congestion at bus stops with more frequent services for popular routes.
+
+Data analytics are already being utilised by the Land Transport Authority, which is currently mining data to study commuter movements.
+
+In other parts of the world, however, there are great practices that are alleviating many challenges for transport authorities, service providers and consumers.
+
+A report by McKinsey & Company cites Israel’s new 21km fast lane on Highway 1 between Tel Aviv and Ben Gurion Airport.
+
+The lane uses a toll system that calculates fees based on traffic at the time of travel. To make it work, the system counts the cars on the road; it can also evaluate the space between cars to measure congestion.
+
+This is real-time pattern recognition of a very high order. The information is then put to use in a way that increases “throughput”, or the amount of traffic the road can bear. If traffic density is high, tolls are high; if there are few cars on the road, charges are low.
+
+This not only keeps toll revenues flowing but also reduces congestion by “steering” demand.
+
+Drivers need not be concerned with the complex calculation process either — display boards along the highway provide information on the current traffic situation on the highly frequented normal lanes and the current tariff for the fast lane to decide whether to use the lanes with the slow-moving traffic or the toll-based fast lane, which reduces the average commute time to reach the main traffic artery of Tel Aviv, the Ayalon Freeway, from two hours to 11 minutes.
+
+The introduction of the fast lane has also encouraged the use of a free shuttle bus service, which shortens travelling time by 30 per cent.
+
+The Netherlands, too, is benefitting from the application of Big Data analysis. Dutch Railways is the principal passenger railway operator within the Netherlands and to other European destinations. Running these vast networks gives Dutch Railways access to huge amounts of data, collected through intelligent train technology (sensors that collect data and feed it to the main server for analysis), ticketing systems, travel information real-time monitoring, and services for maintenance and control unit staff.
+
+Until now, train suppliers delivered all this IT, so each type of train had its own IT environment — making it difficult to work together and maintain each system. Dutch Railways had a vision to integrate all this information to existing systems to deliver a more reliable and better service to customers.
+
+Using streaming analytics, in-memory computing, integration and messaging software, Dutch Railways is now able to provide real-time information about train services and maintenance scheduling. Commuters are also able to use a travel planner application to ensure a seamless and prompt commute.
+
+The clear conclusion is that digitising infrastructure networks can improve forecasting, promote reliability and increase efficiency. So what are the next steps?
+
+The Singapore Government has already taken the first step by opening up and sharing the data being gathered on transportation with start-ups and entrepreneurs, allowing them to explore and use it for the kind of innovation that the private sector excels at.
+
+The sharing of transport data among all the stakeholders — transport operators, system providers and citizens alike — will speed up the development of practical solutions to reduce congestion and waiting times.
+
+Building on that, predictive maintenance for bus and train fleets will largely improve the efficiency and reliability of transport services, and reduce downtime or unforeseen breakdowns. Providing commuters with real-time updates of the entire transport network can also be leveraged to underscore the complete connectivity, accessibility and convenience of Singapore’s public transport system.
+
+Moving towards a smarter, greener, “car-lite” Singapore largely hinges on the efficiency and reliability of the public transportation network.
+
+Embracing technology in this area will not only improve people’s daily lives, but serve as an important step in the journey towards actualising the Smart Nation vision. A smarter transport network is the backbone of an integrated city.
+
+Singapore’s vibrant ecosystem of industry players and test beds is a welcome environment that prompts quicker development, testing and commercialising of smart mobility solutions by agencies, research institutes, industry and the community.
+
+ABOUT THE AUTHOR:
+
+Erich Gerber is General Manager of TIBCO Software Inc., Asia Pacific and Japan
+
+ABOUT THE AUTHOR:
+
+Erich Gerber is General Manager of TIBCO Software Inc., Asia Pacific and Japan

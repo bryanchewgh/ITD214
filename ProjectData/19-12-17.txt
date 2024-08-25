@@ -1,0 +1,26 @@
+LTA 'reserves the right' to take action against parties involved in Nov 15 MRT collision
+
+UPDATED DEC 19, 2017, 12:12 AM
+
+SINGAPORE - Action could still be taken against the parties who were involved in a collision of two MRT trains on Nov 15, the Land Transport Authority (LTA) said yesterday, in response to queries from The Straits Times.
+
+The LTA said it "reserves the right" to take appropriate action, without stating what that might be.
+
+The French company building the new signalling system for the line has taken full responsibility for the collision, which left 38 people injured and caused train delays affecting nearly 13,000 commuters.
+
+It was caused by compatibility issues between the existing signalling system and the new communications-based train control (CBTC) system which Thales is installing for the East-West Line.
+
+An LTA spokesman said: "Thales has acknowledged its responsibility for this incident, and has apologised to the public. It has also committed to establishing a CBTC simulation facility in Singapore, including stationing engineers to support the set-up phase."
+
+The facility, whose location was not stated by the LTA, will support additional testing of Thales' signalling system.
+
+In its investigation report released yesterday, the LTA said several remedial actions had been taken following the collision.
+
+
+A day after the accident, Thales completed the circuit modification works of a track point involved in the accident. On Nov 15, this track point near Clementi MRT station, not yet fully modified for compatibility with the CBTC system, removed a protective "bubble" when a train travelled past it.
+
+The "bubble" acts as an invisible barrier in the CBTC system, preventing trains from knocking into each other. When the bubble was removed, the train became invisible to the one pulling up behind it at Joo Koon MRT station, and this caused the collision.
+
+The "bubble" that was disabled was actually a back-up that had been applied after a first bubble was inadvertently removed by a glitch in the onboard CBTC equipment of the affected train.
+
+Thales is also modifying the software logic of the CBTC system to prevent this back-up "bubble" from being removed, the LTA said.

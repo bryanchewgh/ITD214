@@ -1,0 +1,34 @@
+Water leak led to July 7 rail outage
+
+
+Published July 29, 2015
+Updated July 29, 2015
+
+
+SINGAPORE — After three weeks of investigation and combing more than 200km of train track and components, the authorities have determined that a water leak had set off a chain of events on July 7 which ultimately brought the North-South and East-West MRT lines to a complete halt for hours and left about 250,000 commuters stranded across the island.
+
+The Land Transport Authority (LTA) and public transport operator SMRT had initially struggled to pinpoint the root cause of the unprecedented breakdown, despite carrying out extensive checks. A team of five experts from Sweden’s Parsons Brinkerhoff and Japan’s Meidensha Corporation were brought in to assist the investigation and propose areas for improvement.
+
+At a press conference today (July 29), LTA and SMRT gave a detailed explanation on what caused the breakdown, and the measures that would be taken to prevent a recurrence.
+
+While the root cause has been identified, LTA chief executive Chew Men Leong said it is still looking into SMRT’s culpability, if any, and whether penalties should be imposed on the operator.
+
+The leak had occurred between the Tanjong Pagar and Raffles Place MRT stations. The water, which was found to have high levels of chloride, contaminated the surface of an insulator - which insulates the electrified third rail from the ground - and reduced its resistance levels. As a result, electrical current was able to bypass the insulator, causing ground voltage levels to spike. This triggered a protective relay system which tripped the network as a safety mechanism.
+
+With the insulator replaced and the leak plugged, SMRT will also adjust the setting of the protective relay system by the end of the month, so that it is triggered when ground voltage level hit 200 volts, instead of 136 volts. LTA and SMRT said the new setting will not compromise safety, and is in line with international standards and the setting for newer MRT lines here such as the Circle Line and Downtown Line.
+
+Over the next four to six weeks, SMRT will also replace insulators that have been identified to have low resistance. To date, 662 insulators have been changed after the breakdown. By the first quarter of 2017, all the 30,000 insulators on the North-South and East-West Lines will be replaced, as part of the original plan to replace the third rail system.
+
+SMRT will also be installing data loggers at all 47 of its traction power substations within the next two months to monitor the insulators’ conditions and detect spikes in voltage. It is also looking at putting in place a new voltage-limiting device, which has been piloted for Downtown Line 1 and is able to isolate power trips. Discussions are also underway on segregating the power systems of the North-South and East-West lines.
+
+LTA deputy chief executive (infrastructure and development) Chua Chong Kheng explained that insulators installed at the surface tracks are not affected by rain. However, water in tunnels tend to contain minerals and this could affect the resistance levels of the insulators underground.
+
+On why the entire North-South and East-West lines could be crippled simultaneously, LTA said that simulation checks found that when ground voltage rises at one particular location, voltage rises across the entire network, causing trips at multiple locations.
+
+SMRT Trains managing director Lee Ling Wee said the operator conducts checks every four days for that particular portion of the track where the leak had occurred. He added that when a leak is detected, a level of severity is assigned to it in order to prioritise how soon it should be repaired, given the limited hours for maintenance. Leaks in the area have been repaired twice recently, in November last year and May.
+
+On June 7, a leak was spotted again. It was left unrepaired and on July 4, three days before the massive breakdown, an employee who patrolled the area did not deem the leak to be urgently in need of repair.
+
+SMRT Chief Executive Desmond Kuek noted that a heavy downpour on the day before the breakdown could have been a contributing factor.
+
+He said: “We’ve reviewed all our existing work instructions and we are satisfied that they have been complied with. But of course arising from the lessons and observations that we have made on the July 7 incident, clearly we will be taking very firm steps to review and improve all of those work instructions, with a view to tighten these...more vulnerable spots in the system.”

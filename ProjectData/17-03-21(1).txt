@@ -1,0 +1,16 @@
+Cut in power cable insulation, rusted component caused MRT breakdown
+
+Published Wed, Mar 17, 2021 · 01:11 PM
+
+
+[SINGAPORE] A cut in the insulation layer of a power cable along the rail extension and a rusted component in a circuit breaker led to the massive three-line rail breakdown last year, which affected about 123,000 commuters.
+
+This was the conclusion of a month-long forensic investigation into the equipment faults on the Tuas West Extension (TWE) that led to disruptions on the North-South, East-West and Circle Lines, Transport Minister Ong Ye Kung said on Wednesday (March 17), as he warned against cutting corners when it comes to rail line maintenance.
+
+Mr Ong was speaking at the ground-breaking ceremony of a new integrated train testing centre (ITTC), which will put new trains and rail systems through their paces without the risk of disrupting service on operational lines.
+
+He said investigations by main contractor Alstom and the Land Transport Authority found that a cut in the insulation layer of a cable, which was likely due to a manufacturing defect or mishandling during installation, had led to a short circuit.
+
+The trip coils in the circuit breaker that should have contained the initial fault failed because a plunger, which moves to enable the circuit breaker to kick in, had rusted.
+
+The rust, which likely formed due to an inadequate protective coating in the batch of trip coils used on the TWE, had obstructed the plunger, causing the circuit breaker to malfunction. This resulted in a disruption lasting more than three hours, which left more than 6,700 commuters stranded on trains.

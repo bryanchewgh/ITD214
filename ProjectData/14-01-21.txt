@@ -1,0 +1,28 @@
+Improving Rail Reliability: SMRT’s Efforts So Far
+
+
+
+Jan 14, 2021
+
+Rail transport in Singapore consists of a mass rapid rail transit system and light rail system that span the entire nation. The rail network is operated by the two biggest public transport operators — SMRT Trains (SMRT Corporation) and SBS Transit. The reliability of the nation’s train network continues to improve with each passing year with the introduction of new technologies and renewal of the current infrastructure. Let’s check out the contributions of SMRT in increasing rail reliability in Singapore.
+
+SMRT Trains — Overview
+SMRT Trains is the leading mass rapid transit (MRT) operator in Singapore. It operates the North-South Line, East-West Line, Circle Line, Thomson-East Coast Line and the Bukit Panjang LRT. Apart from the MRT services, SMRT also provides local and suburban mass passenger transportation through its bus fleet and taxi services.
+
+Rail Reliability
+Singapore is home to the most affordable, safest, reliable, convenient, comfortable, and sustainable rail network in the world. By applying advanced technologies to operations and investing in innovative solutions, rail networks can become more efficient than ever before. That’s what SMRT is doing to optimise performance, increase reliability, and improve the safety of rail transportation for Singaporeans. In Singapore, rail reliability is calculated as the average distance travelled by trains during the time between rail delays. Here are the steps SMRT has taken in the last few years to increase the reliability quotient.
+
+1. SMRT has replaced about 180km of composite aluminium-and-stainless-steel railson the North-South and East-West lines (NSEWL) from 2015 to 2017. The power rail replacement has helped to reduce power breakdowns, leading to an increase in the reliability of the electrical system.
+2. The Communications-Based Train Control signalling system has been changed by the operator to enable trains to run at shorter intervals. This has helped the company to increase train capacity and better customer satisfaction with train services.
+3. The company has renewed the Power Supply System with new fibre optic cables, from 2018 to 2020. The new cable system transmits train and track monitoring information in real-time to the engineers, allowing better fault prediction. The system can transmit irregularities quickly to the engineers and theycan investigate and rectify things where necessary. The renewal of the power supply system also included replacement of power transformers, switchboards, and equipment in 171 substations.
+4. It has completed upgrading the Third Rail System that powers metro trains on the NSEWL Lines. This upgrade aims to improve the robustness and maintainability of the metro trains. By upgrading the Third Rail system, the company has addressed the causes behind power delays that last more than 30 minutes.
+5. SMRT also inaugurated the Singapore Rail Academy in 2017 to better train railway engineers. It is working on a new integrated train testing centre to be completed by 2022 to test new rail technologies.
+6. The multi-modal operator has established its Maintenance Operations Centre (MOC) at Bishan Depot to monitor the tech voltage system. The centre predicts and pre-empts faults and prevent them for smooth operations.
+7. The replacement of the NSEWL’s core systems, including the power supply, trains, track circuits will be complete dby 2024.
+8. Apart from the above-mentioned efforts taken by SMRT, the company is working with the Land Transport Authority (LTA) to replace first-generation and second-generation trains on the NSEWL lines. It has put new modern Bombardier trains into service.
+Commenting on the efforts taken by SMRT to improve rail reliability, SMRT CEO Neo Kian Hong said: “Transformation is taking place in operations, maintenance and service. Much work is also being done to keep costs down through productivity efforts.”
+
+SMRT CEO further added, “Most importantly, quality service must be sustained through cultivating a high-performing mindset and an attitude of continuous improvement.”
+
+Conclusion
+SMRT is the leading MRT operator in Singapore. The company has been able to reach 1 million mean kilometres between failure mark. The NSEWL lines operated by SMRT have been recognised as the Most Improved MRT Line. All the aforementioned efforts by SMRT have started to pay off with the increase in the reliability of the MRT Lines.

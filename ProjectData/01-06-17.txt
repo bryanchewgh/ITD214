@@ -1,0 +1,17 @@
+Smart Maintenance via Dynamic Fault Tree Analysis: A Case Study on Singapore MRT System
+
+Urban railway systems, as the most heavily used systems in daily life, suffer from frequent service disruptions resulting millions of affected passengers and huge economic losses. 
+
+Maintenance of the systems is done by maintaining individual devices in fixed cycles. 
+It is time consuming, yet not effective. 
+Thus, to reduce service failures through smart maintenance is becoming one of the top priorities of the system operators. 
+
+
+In this paper, we propose a data driven approach that is to decide maintenance cycle based on estimating the mean time to failure of the system. 
+
+There are two challenges: 1) as a cyber physical system, hardwares of cyber components (like signalling devices) fail more frequently than physical components (like power plants); 
+2) as a system of systems, functional dependency exists not only between components within a sub-system but also between different sub-systems, for example, a train relies on traction power system to operate. 
+
+To meet the challenges, a Dynamic Fault Tree (DFT) based approach is adopted for the expressiveness of the modelling formalism and an efficient tool support by DFTCalc. 
+
+Our case study shows interesting results that the Singapore Massive Rapid Train (MRT) system is likely to fail in 20 days from the full functioning status based on the manufacture data.

@@ -1,0 +1,10 @@
+Stray current monitoring and control on Singapore MRT system
+
+Stray current corrosion on railway infrastructure and nearby utilities by direct current railway track return system has been an issue for many years. 
+Control and mitigation of stray current has been an important aspect of direct current railway track return system. 
+This paper briefly discusses various design parameters and installation practices of stray current corrosion control and monitoring system applied in Singapore MRT tunnels, viaducts, depot and at grade sections. 
+
+This paper also covers some basic concepts of stray current corrosion in direct current railway track return system. 
+
+It also outlines some adopted testing and commissioning methods for both prerevenue service and post revenue service periods. 
+Evaluation and assessment of test/measurement results as well as regular inspections and tests for preventive maintenance of stray current corrosion and mitigation are also discussed.
